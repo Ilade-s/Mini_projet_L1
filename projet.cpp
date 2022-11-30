@@ -9,11 +9,12 @@ MERLET Raphaël
 #include "liste.hpp"
 using namespace std;
 
+// structures de donnees
+
 struct Horodatage
 {
     int mois, jour, heure;
 };
-
 
 struct Tache
 {
@@ -31,14 +32,30 @@ struct Solution
     float cout;
 };
 
+struct Production
+{
+    string region;
+    Horodatage temps;
+    int thermique, nucleaire, eolien, solaire, hydro, bio, solde;
+};
+
+struct Couts
+{
+    float thermique, nucleaire, eolien, solaire, hydro, bio;
+};
+
+// lectures et afichages
+
 void afficher_horodatage(Horodatage temps){
-    cout << temps.mois << " " << temps.jour << " " << temps.heure << endl;
+    cout << temps.mois << " " << temps.jour << " " << temps.heure;
 }
 
 void afficher_tache(Tache task){
     cout << task.nom << endl << task.sortie << endl << task.duree << endl;
     afficher_horodatage(task.debut);
+    cout << endl;
     afficher_horodatage(task.fin);
+    cout << endl;
     cout << task.cout << endl;
     for (int i = 1; i <= taille(task.regions); i++)
     {
@@ -46,7 +63,6 @@ void afficher_tache(Tache task){
     }
     cout << endl;
 }
-
 
 Tache lire_fichier_tache(string filename){
     Tache task;
@@ -76,8 +92,22 @@ Tache lire_fichier_tache(string filename){
         cout << "Erreur : impossible d’ouvrir "  << filename << endl;
     }
     
-    
     return task;
+}
+
+void afficher_couts(Couts c_ener){
+    cout << c_ener.thermique << " " << c_ener.nucleaire << " "
+         << c_ener.eolien << " " << c_ener.solaire << " "
+         << c_ener.hydro << " " << c_ener.bio << endl;
+}
+
+void afficher_production(Production prod){
+    cout << prod.region << " ";
+    afficher_horodatage(prod.temps);
+    cout << " " << prod.thermique << " " << prod.nucleaire << " " 
+         << prod.eolien << " " << prod.solaire << " " 
+         << prod.hydro << " " << prod.bio << " " << prod.solde; 
+
 }
 
 int main(){
