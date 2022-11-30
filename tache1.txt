@@ -1,0 +1,7 @@
+grokalkul 
+sortie_grokalkul.txt
+50
+5 3 0
+5 10 14
+21.5
+2 11 12
