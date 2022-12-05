@@ -171,6 +171,29 @@ void afficher_donnees(liste<Production> l_prod){
     }
 }
 
+void exporter_resultats(string filename, liste<Solution> l_res){
+    fstream flux;
+    int i = 1;
+    flux.open(filename, ios::out);
+    if (flux.is_open())
+    {
+        while (flux.good() and i <= taille(l_res)) {
+            flux << l_res[i].region;
+            flux << l_res[i].debut.mois;
+            flux << l_res[i].debut.jour;
+            flux << l_res[i].debut.heure;
+            flux << l_res[i].fin.mois;
+            flux << l_res[i].fin.jour;
+            flux << l_res[i].fin.heure;
+            flux << l_res[i].cout;
+        }
+    }
+    else
+    {
+        cout << "Erreur : impossible d’enregistrer resultats a "  << filename << endl;
+    }
+}
+
 int main(){
     Tache task = lire_fichier_tache("tache1.txt");
     afficher_tache(task);
