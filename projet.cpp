@@ -227,6 +227,99 @@ void exporter_resultats(string filename, liste<Solution> l_res){
     }
 }
 
+//-------------------------.
+// Rôle : revoie vrai si temps est situé avant ou au même moment que borne, faux sinon
+// Précondition : filename est un emplacement de fichier valide
+bool temps_inferieur(Horodatage temps, Horodatage borne){
+    if (temps.mois < borne.mois) {
+        return true;
+    }
+    else {
+        if (temps.mois == borne.mois) {
+            if (temps.jour < borne.jour) {
+                return true;
+            }
+            else {
+                if (temps.jour == borne.jour) {
+                    if (temps.heure <= borne.heure) {
+                        return true;
+                    }
+                }
+            }
+        }
+    }
+    return false;
+}
+
+bool periode_valide(Horodatage temps, Horodatage min, Horodatage max){
+    if (temps_inferieur(min, temps)) {
+        if (temps_inferieur(temps, max)) {
+            return true;
+        }
+    }
+    return false;
+}
+
+float cout_moyen(Couts cost, Production prod){
+    float cout_fois_prod = prod.thermique * cost.thermique + 
+        prod.nucleaire * cost.nucleaire + 
+        prod.eolien * cost.eolien +
+        prod.solaire * cost.solaire + 
+        prod.hydro * cost.hydro + 
+        prod.bio * cost.bio; 
+    float somme_prods = prod.thermique + prod.nucleaire + prod.eolien +
+        prod.solaire + prod.hydro + prod.bio;
+    
+    return cout_fois_prod / somme_prods;
+}
+
+liste<Production> filtre_regions(string region, liste<Production> prods){
+    liste<Production> prod_filtree;
+    for (Production prod : prods) {
+        if (prod.region == region) {
+            inserer(prod, prod_filtree, taille(prod_filtree) + 1);
+        }
+    }
+
+    return prod_filtree;
+};
+
+liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prods){
+    bool valide;
+    liste<Solution> solutions;
+    int j;
+    for (string region: task.regions){
+        float somme_couts = 0;
+        liste<Production> prods_region = filtre_regions(region, prods);
+        for (int i = 1; i <= (taille(prods_region) - task.duree); i++) {
+            float cout_moy = cout_moyen(cost, prods_region[i+j]);
+            valide = true;
+            j = 0;
+            while (j < task.duree and valide) {
+                if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // heure dans la période
+                    valide = false;
+                }
+                if (prods_region[i+j].solde > 0) { // région productrice
+                    valide = false;
+                }
+                if (cout_moy > task.cout) { // cout moyen inférieur à cout max
+                    valide = false;
+                }
+                somme_couts += cout_moy;
+                j++;
+            }
+            if (valide) {
+                Solution planification;
+                planification.region = region;
+                planification.debut = prods_region[i].temps;
+                planification.fin = prods_region[i+task.duree-1].temps;
+                planification.cout = somme_couts;
+            }
+        }
+    }
+    return solutions;
+}
+
 int main(){
     Tache task = lire_tache("tache1.txt");
     afficher_tache(task);
@@ -234,5 +327,7 @@ int main(){
     afficher_couts(cost);
     liste<Production> prods = lire_donnees("energieFrance2021.txt", 10);
     afficher_donnees(prods);
+    liste<Solution> resultats = trouver_solutions(task, cost, prods);
+    exporter_resultats(task.sortie, resultats);
     return 0;
 }
