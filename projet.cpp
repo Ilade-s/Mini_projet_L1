@@ -211,14 +211,15 @@ void exporter_resultats(string filename, liste<Solution> l_res){
     if (flux.is_open())
     {
         while (flux.good() && i <= taille(l_res)) {
-            flux << l_res[i].region;
-            flux << l_res[i].debut.mois;
-            flux << l_res[i].debut.jour;
-            flux << l_res[i].debut.heure;
-            flux << l_res[i].fin.mois;
-            flux << l_res[i].fin.jour;
-            flux << l_res[i].fin.heure;
-            flux << l_res[i].cout;
+            flux << l_res[i].region << " ";
+            flux << l_res[i].debut.mois << " ";
+            flux << l_res[i].debut.jour << " ";
+            flux << l_res[i].debut.heure << " ";
+            flux << l_res[i].fin.mois << " ";
+            flux << l_res[i].fin.jour << " ";
+            flux << l_res[i].fin.heure << " ";
+            flux << l_res[i].cout << endl;
+            i++;
         }
     }
     else
@@ -290,13 +291,12 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
     int j;
     for (string region: task.regions){
         liste<Production> prods_region = filtre_regions(region, prods);
-        afficher_donnees(prods_region);
-        for (int i = 1; i <= (int) taille(prods_region) - task.duree; i++) {
+        for (int i = 1; i <= (int) taille(prods_region) - (task.duree - 1); i++) {
             float cout_moy;
             float somme_couts = 0;
             valide = true;
             j = 0;
-            while (j < task.duree && valide) {
+            while (j < task.duree - 1 && valide) {
                 cout_moy = cout_moyen(cost, prods_region[i+j]);
                 if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // heure dans la période
                     valide = false;
@@ -316,9 +316,11 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
                 planification.debut = prods_region[i].temps;
                 planification.fin = prods_region[i+j].temps;
                 planification.cout = somme_couts;
+                inserer(planification, solutions, taille(solutions) + 1);
             }
         }
     }
+    
     return solutions;
 }
 
@@ -327,7 +329,7 @@ int main(){
     afficher_tache(task);
     Couts cost = lire_couts("couts.txt");
     afficher_couts(cost);
-    liste<Production> prods = lire_donnees("energieFrance2021.txt", 500);
+    liste<Production> prods = lire_donnees("energieFrance2021.txt", -1);
     afficher_donnees(prods);
     liste<Solution> resultats = trouver_solutions(task, cost, prods);
     exporter_resultats(task.sortie, resultats);
