@@ -119,7 +119,7 @@ liste<Production> lire_donnees(string filename, int limit){
     flux.open(filename, ios::in);
     if (flux.is_open())
     {
-        while (flux.good() && (i < limit or limit == -1)) {
+        while (flux.good() && (i < limit || limit == -1)) {
             flux >> prod.region;
             flux >> prod.temps.mois;
             flux >> prod.temps.jour;
@@ -289,13 +289,15 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
     liste<Solution> solutions;
     int j;
     for (string region: task.regions){
-        float somme_couts = 0;
         liste<Production> prods_region = filtre_regions(region, prods);
-        for (int i = 1; i <= (taille(prods_region) - task.duree); i++) {
-            float cout_moy = cout_moyen(cost, prods_region[i+j]);
+        afficher_donnees(prods_region);
+        for (int i = 1; i <= (int) taille(prods_region) - task.duree; i++) {
+            float cout_moy;
+            float somme_couts = 0;
             valide = true;
             j = 0;
-            while (j < task.duree and valide) {
+            while (j < task.duree && valide) {
+                cout_moy = cout_moyen(cost, prods_region[i+j]);
                 if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // heure dans la période
                     valide = false;
                 }
@@ -312,7 +314,7 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
                 Solution planification;
                 planification.region = region;
                 planification.debut = prods_region[i].temps;
-                planification.fin = prods_region[i+task.duree-1].temps;
+                planification.fin = prods_region[i+j].temps;
                 planification.cout = somme_couts;
             }
         }
@@ -325,7 +327,7 @@ int main(){
     afficher_tache(task);
     Couts cost = lire_couts("couts.txt");
     afficher_couts(cost);
-    liste<Production> prods = lire_donnees("energieFrance2021.txt", 10);
+    liste<Production> prods = lire_donnees("energieFrance2021.txt", 500);
     afficher_donnees(prods);
     liste<Solution> resultats = trouver_solutions(task, cost, prods);
     exporter_resultats(task.sortie, resultats);
