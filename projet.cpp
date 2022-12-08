@@ -359,6 +359,9 @@ liste<Solution> trier_solutions(liste<Solution> l_s){
     
 }
 
+//-------------------------.
+// Rôle : revoie la liste des planifications possibles de la Tache task, selon les coûts et la liste des productions horiaires.
+// Précondition : les structures sont complètes
 liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prods){
     bool valide;
     liste<Solution> solutions;
