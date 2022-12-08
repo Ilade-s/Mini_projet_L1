@@ -371,12 +371,12 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
     int j;
     for (string region: task.regions){ // solutions par régions
         liste<Production> prods_region = filtre_regions(region, prods);
-        for (int i = 1; i <= (int) taille(prods_region) - (task.duree - 1); i++) { // parcours index 1ere heure tâche (selon durée)
+        for (int i = 1; i <= (int) taille(prods_region) - task.duree; i++) { // parcours index 1ere heure tâche (selon durée)
             float cout_moy; // coût moyen de la production de l'heure
             float somme_couts = 0; // coût total de la tâche (somme de couts moyen/h)
             valide = true; // si la solution étudiée est possible ou non
             j = 0;
-            while (j < task.duree - 1 && valide) { // parcours des indexs des heures de chaque tâche (ou jusqu'à ce que la tâche soit invalide)
+            while (j < task.duree && valide) { // parcours des indexs des heures de chaque tâche (ou jusqu'à ce que la tâche soit invalide)
                 cout_moy = cout_moyen(cost, prods_region[i+j]);
                 if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // vérif heure dans la période
                     valide = false;
@@ -394,7 +394,7 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
                 Solution planification;
                 planification.region = region;
                 planification.debut = prods_region[i].temps;
-                planification.fin = prods_region[i+j].temps;
+                planification.fin = prods_region[i+j-1].temps;
                 planification.cout = somme_couts;
                 inserer(planification, solutions, taille(solutions) + 1);
             }

@@ -2,9 +2,9 @@
 xmlns:xlink="http://www.w3.org/1999/xlink"
 height = "2510" width="1990">
 
-<!--fichier d'entrée :test.txt-->
+<!--fichier d'entrée :sortie_grokalkul.txt-->
 
-<!--date : Thu Dec  8 14:17:34 2022
+<!--date : Thu Dec  8 14:15:26 2022
 -->
 
 <rect width="100%" height="100%" fill="white" />
@@ -13,7 +13,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="80.000000" y="50.000000" width="500.000000" height="10.000000"  />
 <text x="83" y="58" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="58" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#1 - 747.68</text>
+<text x="30" y="58" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#1 - 14.95</text>
 
 <line x1=  "50.000000" y1=  "50.000000" x2=  "1910.000000" y2=  "50.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -22,7 +22,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="90.000000" y="60.000000" width="500.000000" height="10.000000"  />
 <text x="93" y="68" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="68" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#2 - 748.70</text>
+<text x="30" y="68" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#2 - 14.97</text>
 
 <line x1=  "50.000000" y1=  "60.000000" x2=  "1910.000000" y2=  "60.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -31,7 +31,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="100.000000" y="70.000000" width="500.000000" height="10.000000"  />
 <text x="103" y="78" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="78" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#3 - 749.68</text>
+<text x="30" y="78" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#3 - 14.99</text>
 
 <line x1=  "50.000000" y1=  "70.000000" x2=  "1910.000000" y2=  "70.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -40,7 +40,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="110.000000" y="80.000000" width="500.000000" height="10.000000"  />
 <text x="113" y="88" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="88" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#4 - 750.61</text>
+<text x="30" y="88" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#4 - 15.01</text>
 
 <line x1=  "50.000000" y1=  "80.000000" x2=  "1910.000000" y2=  "80.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -49,7 +49,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="120.000000" y="90.000000" width="500.000000" height="10.000000"  />
 <text x="123" y="98" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="98" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#5 - 751.47</text>
+<text x="30" y="98" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#5 - 15.02</text>
 
 <line x1=  "50.000000" y1=  "90.000000" x2=  "1910.000000" y2=  "90.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -58,7 +58,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="130.000000" y="100.000000" width="500.000000" height="10.000000"  />
 <text x="133" y="108" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="108" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#6 - 752.20</text>
+<text x="30" y="108" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#6 - 15.04</text>
 
 <line x1=  "50.000000" y1=  "100.000000" x2=  "1910.000000" y2=  "100.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -67,7 +67,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="140.000000" y="110.000000" width="500.000000" height="10.000000"  />
 <text x="143" y="118" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="118" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#7 - 752.94</text>
+<text x="30" y="118" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#7 - 15.05</text>
 
 <line x1=  "50.000000" y1=  "110.000000" x2=  "1910.000000" y2=  "110.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -76,7 +76,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="150.000000" y="120.000000" width="500.000000" height="10.000000"  />
 <text x="153" y="128" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="128" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#8 - 753.88</text>
+<text x="30" y="128" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#8 - 15.07</text>
 
 <line x1=  "50.000000" y1=  "120.000000" x2=  "1910.000000" y2=  "120.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -85,7 +85,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="160.000000" y="130.000000" width="500.000000" height="10.000000"  />
 <text x="163" y="138" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="138" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#9 - 755.08</text>
+<text x="30" y="138" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#9 - 15.10</text>
 
 <line x1=  "50.000000" y1=  "130.000000" x2=  "1910.000000" y2=  "130.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -94,7 +94,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="170.000000" y="140.000000" width="500.000000" height="10.000000"  />
 <text x="173" y="148" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="148" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#10 - 756.27</text>
+<text x="30" y="148" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#10 - 15.12</text>
 
 <line x1=  "50.000000" y1=  "140.000000" x2=  "1910.000000" y2=  "140.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -103,7 +103,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="180.000000" y="150.000000" width="500.000000" height="10.000000"  />
 <text x="183" y="158" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="158" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#11 - 757.30</text>
+<text x="30" y="158" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#11 - 15.14</text>
 
 <line x1=  "50.000000" y1=  "150.000000" x2=  "1910.000000" y2=  "150.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -112,7 +112,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="260.000000" y="160.000000" width="500.000000" height="10.000000"  />
 <text x="263" y="168" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="168" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#12 - 758.18</text>
+<text x="30" y="168" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#12 - 15.16</text>
 
 <line x1=  "50.000000" y1=  "160.000000" x2=  "1910.000000" y2=  "160.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -121,7 +121,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="270.000000" y="170.000000" width="500.000000" height="10.000000"  />
 <text x="273" y="178" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="178" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#13 - 758.20</text>
+<text x="30" y="178" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#13 - 15.16</text>
 
 <line x1=  "50.000000" y1=  "170.000000" x2=  "1910.000000" y2=  "170.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -130,7 +130,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="190.000000" y="180.000000" width="500.000000" height="10.000000"  />
 <text x="193" y="188" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="188" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#14 - 758.20</text>
+<text x="30" y="188" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#14 - 15.16</text>
 
 <line x1=  "50.000000" y1=  "180.000000" x2=  "1910.000000" y2=  "180.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -139,7 +139,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="250.000000" y="190.000000" width="500.000000" height="10.000000"  />
 <text x="253" y="198" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="198" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#15 - 758.37</text>
+<text x="30" y="198" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#15 - 15.16</text>
 
 <line x1=  "50.000000" y1=  "190.000000" x2=  "1910.000000" y2=  "190.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -148,7 +148,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="280.000000" y="200.000000" width="500.000000" height="10.000000"  />
 <text x="283" y="208" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="208" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#16 - 758.40</text>
+<text x="30" y="208" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#16 - 15.16</text>
 
 <line x1=  "50.000000" y1=  "200.000000" x2=  "1910.000000" y2=  "200.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -157,7 +157,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="290.000000" y="210.000000" width="500.000000" height="10.000000"  />
 <text x="293" y="218" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="218" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#17 - 758.60</text>
+<text x="30" y="218" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#17 - 15.17</text>
 
 <line x1=  "50.000000" y1=  "210.000000" x2=  "1910.000000" y2=  "210.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -166,7 +166,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="240.000000" y="220.000000" width="500.000000" height="10.000000"  />
 <text x="243" y="228" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="228" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#18 - 758.69</text>
+<text x="30" y="228" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#18 - 15.17</text>
 
 <line x1=  "50.000000" y1=  "220.000000" x2=  "1910.000000" y2=  "220.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -175,7 +175,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="300.000000" y="230.000000" width="500.000000" height="10.000000"  />
 <text x="303" y="238" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="238" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#19 - 758.84</text>
+<text x="30" y="238" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#19 - 15.17</text>
 
 <line x1=  "50.000000" y1=  "230.000000" x2=  "1910.000000" y2=  "230.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -184,7 +184,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="200.000000" y="240.000000" width="500.000000" height="10.000000"  />
 <text x="203" y="248" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="248" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#20 - 758.86</text>
+<text x="30" y="248" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#20 - 15.17</text>
 
 <line x1=  "50.000000" y1=  "240.000000" x2=  "1910.000000" y2=  "240.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -193,7 +193,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="230.000000" y="250.000000" width="500.000000" height="10.000000"  />
 <text x="233" y="258" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="258" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#21 - 758.88</text>
+<text x="30" y="258" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#21 - 15.17</text>
 
 <line x1=  "50.000000" y1=  "250.000000" x2=  "1910.000000" y2=  "250.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -202,7 +202,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="220.000000" y="260.000000" width="500.000000" height="10.000000"  />
 <text x="223" y="268" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="268" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#22 - 759.17</text>
+<text x="30" y="268" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#22 - 15.18</text>
 
 <line x1=  "50.000000" y1=  "260.000000" x2=  "1910.000000" y2=  "260.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -211,7 +211,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="310.000000" y="270.000000" width="500.000000" height="10.000000"  />
 <text x="313" y="278" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="278" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#23 - 759.26</text>
+<text x="30" y="278" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#23 - 15.18</text>
 
 <line x1=  "50.000000" y1=  "270.000000" x2=  "1910.000000" y2=  "270.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -220,7 +220,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="210.000000" y="280.000000" width="500.000000" height="10.000000"  />
 <text x="213" y="288" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="288" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#24 - 759.59</text>
+<text x="30" y="288" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#24 - 15.19</text>
 
 <line x1=  "50.000000" y1=  "280.000000" x2=  "1910.000000" y2=  "280.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -229,7 +229,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="320.000000" y="290.000000" width="500.000000" height="10.000000"  />
 <text x="323" y="298" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="298" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#25 - 759.64</text>
+<text x="30" y="298" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#25 - 15.19</text>
 
 <line x1=  "50.000000" y1=  "290.000000" x2=  "1910.000000" y2=  "290.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -238,7 +238,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="330.000000" y="300.000000" width="500.000000" height="10.000000"  />
 <text x="333" y="308" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="308" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#26 - 760.10</text>
+<text x="30" y="308" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#26 - 15.20</text>
 
 <line x1=  "50.000000" y1=  "300.000000" x2=  "1910.000000" y2=  "300.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -247,7 +247,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="380.000000" y="310.000000" width="500.000000" height="10.000000"  />
 <text x="383" y="318" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="318" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#27 - 760.16</text>
+<text x="30" y="318" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#27 - 15.20</text>
 
 <line x1=  "50.000000" y1=  "310.000000" x2=  "1910.000000" y2=  "310.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -256,7 +256,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="390.000000" y="320.000000" width="500.000000" height="10.000000"  />
 <text x="393" y="328" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="328" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#28 - 760.17</text>
+<text x="30" y="328" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#28 - 15.20</text>
 
 <line x1=  "50.000000" y1=  "320.000000" x2=  "1910.000000" y2=  "320.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -265,7 +265,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="400.000000" y="330.000000" width="500.000000" height="10.000000"  />
 <text x="403" y="338" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="338" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#29 - 760.29</text>
+<text x="30" y="338" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#29 - 15.20</text>
 
 <line x1=  "50.000000" y1=  "330.000000" x2=  "1910.000000" y2=  "330.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -274,7 +274,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="340.000000" y="340.000000" width="500.000000" height="10.000000"  />
 <text x="343" y="348" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="348" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#30 - 760.35</text>
+<text x="30" y="348" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#30 - 15.20</text>
 
 <line x1=  "50.000000" y1=  "340.000000" x2=  "1910.000000" y2=  "340.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -283,7 +283,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="370.000000" y="350.000000" width="500.000000" height="10.000000"  />
 <text x="373" y="358" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="358" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#31 - 760.57</text>
+<text x="30" y="358" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#31 - 15.21</text>
 
 <line x1=  "50.000000" y1=  "350.000000" x2=  "1910.000000" y2=  "350.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -292,7 +292,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="410.000000" y="360.000000" width="500.000000" height="10.000000"  />
 <text x="413" y="368" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="368" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#32 - 760.68</text>
+<text x="30" y="368" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#32 - 15.21</text>
 
 <line x1=  "50.000000" y1=  "360.000000" x2=  "1910.000000" y2=  "360.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -301,7 +301,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="350.000000" y="370.000000" width="500.000000" height="10.000000"  />
 <text x="353" y="378" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="378" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#33 - 760.71</text>
+<text x="30" y="378" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#33 - 15.21</text>
 
 <line x1=  "50.000000" y1=  "370.000000" x2=  "1910.000000" y2=  "370.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -310,7 +310,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="360.000000" y="380.000000" width="500.000000" height="10.000000"  />
 <text x="363" y="388" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="388" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#34 - 760.92</text>
+<text x="30" y="388" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#34 - 15.21</text>
 
 <line x1=  "50.000000" y1=  "380.000000" x2=  "1910.000000" y2=  "380.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -319,7 +319,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="420.000000" y="390.000000" width="500.000000" height="10.000000"  />
 <text x="423" y="398" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="398" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#35 - 761.00</text>
+<text x="30" y="398" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#35 - 15.22</text>
 
 <line x1=  "50.000000" y1=  "390.000000" x2=  "1910.000000" y2=  "390.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -328,7 +328,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="430.000000" y="400.000000" width="500.000000" height="10.000000"  />
 <text x="433" y="408" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="408" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#36 - 761.26</text>
+<text x="30" y="408" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#36 - 15.22</text>
 
 <line x1=  "50.000000" y1=  "400.000000" x2=  "1910.000000" y2=  "400.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -337,7 +337,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="440.000000" y="410.000000" width="500.000000" height="10.000000"  />
 <text x="443" y="418" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="418" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#37 - 762.21</text>
+<text x="30" y="418" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#37 - 15.24</text>
 
 <line x1=  "50.000000" y1=  "410.000000" x2=  "1910.000000" y2=  "410.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -346,7 +346,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="450.000000" y="420.000000" width="500.000000" height="10.000000"  />
 <text x="453" y="428" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="428" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#38 - 763.13</text>
+<text x="30" y="428" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#38 - 15.26</text>
 
 <line x1=  "50.000000" y1=  "420.000000" x2=  "1910.000000" y2=  "420.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -355,7 +355,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="460.000000" y="430.000000" width="500.000000" height="10.000000"  />
 <text x="463" y="438" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="438" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#39 - 763.42</text>
+<text x="30" y="438" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#39 - 15.26</text>
 
 <line x1=  "50.000000" y1=  "430.000000" x2=  "1910.000000" y2=  "430.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -364,7 +364,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="470.000000" y="440.000000" width="500.000000" height="10.000000"  />
 <text x="473" y="448" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="448" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#40 - 764.45</text>
+<text x="30" y="448" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#40 - 15.28</text>
 
 <line x1=  "50.000000" y1=  "440.000000" x2=  "1910.000000" y2=  "440.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -373,7 +373,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="480.000000" y="450.000000" width="500.000000" height="10.000000"  />
 <text x="483" y="458" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="458" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#41 - 765.09</text>
+<text x="30" y="458" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#41 - 15.30</text>
 
 <line x1=  "50.000000" y1=  "450.000000" x2=  "1910.000000" y2=  "450.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -382,7 +382,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="490.000000" y="460.000000" width="500.000000" height="10.000000"  />
 <text x="493" y="468" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="468" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#42 - 765.26</text>
+<text x="30" y="468" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#42 - 15.30</text>
 
 <line x1=  "50.000000" y1=  "460.000000" x2=  "1910.000000" y2=  "460.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -391,7 +391,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="500.000000" y="470.000000" width="500.000000" height="10.000000"  />
 <text x="503" y="478" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="478" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#43 - 765.50</text>
+<text x="30" y="478" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#43 - 15.31</text>
 
 <line x1=  "50.000000" y1=  "470.000000" x2=  "1910.000000" y2=  "470.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -400,7 +400,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="510.000000" y="480.000000" width="500.000000" height="10.000000"  />
 <text x="513" y="488" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="488" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#44 - 765.66</text>
+<text x="30" y="488" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#44 - 15.31</text>
 
 <line x1=  "50.000000" y1=  "480.000000" x2=  "1910.000000" y2=  "480.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -409,7 +409,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="620.000000" y="490.000000" width="500.000000" height="10.000000"  />
 <text x="623" y="498" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="498" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#45 - 765.86</text>
+<text x="30" y="498" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#45 - 15.31</text>
 
 <line x1=  "50.000000" y1=  "490.000000" x2=  "1910.000000" y2=  "490.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -418,7 +418,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="520.000000" y="500.000000" width="500.000000" height="10.000000"  />
 <text x="523" y="508" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="508" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#46 - 765.92</text>
+<text x="30" y="508" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#46 - 15.31</text>
 
 <line x1=  "50.000000" y1=  "500.000000" x2=  "1910.000000" y2=  "500.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -427,7 +427,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="610.000000" y="510.000000" width="500.000000" height="10.000000"  />
 <text x="613" y="518" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="518" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#47 - 765.94</text>
+<text x="30" y="518" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#47 - 15.31</text>
 
 <line x1=  "50.000000" y1=  "510.000000" x2=  "1910.000000" y2=  "510.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -436,7 +436,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="630.000000" y="520.000000" width="500.000000" height="10.000000"  />
 <text x="633" y="528" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="528" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#48 - 766.04</text>
+<text x="30" y="528" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#48 - 15.32</text>
 
 <line x1=  "50.000000" y1=  "520.000000" x2=  "1910.000000" y2=  "520.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -445,7 +445,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="530.000000" y="530.000000" width="500.000000" height="10.000000"  />
 <text x="533" y="538" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="538" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#49 - 766.13</text>
+<text x="30" y="538" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#49 - 15.32</text>
 
 <line x1=  "50.000000" y1=  "530.000000" x2=  "1910.000000" y2=  "530.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -454,7 +454,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="600.000000" y="540.000000" width="500.000000" height="10.000000"  />
 <text x="603" y="548" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="548" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#50 - 766.13</text>
+<text x="30" y="548" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#50 - 15.32</text>
 
 <line x1=  "50.000000" y1=  "540.000000" x2=  "1910.000000" y2=  "540.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -463,7 +463,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="590.000000" y="550.000000" width="500.000000" height="10.000000"  />
 <text x="593" y="558" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="558" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#51 - 766.35</text>
+<text x="30" y="558" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#51 - 15.32</text>
 
 <line x1=  "50.000000" y1=  "550.000000" x2=  "1910.000000" y2=  "550.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -472,7 +472,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="540.000000" y="560.000000" width="500.000000" height="10.000000"  />
 <text x="543" y="568" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="568" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#52 - 766.41</text>
+<text x="30" y="568" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#52 - 15.32</text>
 
 <line x1=  "50.000000" y1=  "560.000000" x2=  "1910.000000" y2=  "560.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -481,7 +481,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="640.000000" y="570.000000" width="500.000000" height="10.000000"  />
 <text x="643" y="578" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="578" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#53 - 766.49</text>
+<text x="30" y="578" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#53 - 15.32</text>
 
 <line x1=  "50.000000" y1=  "570.000000" x2=  "1910.000000" y2=  "570.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -490,7 +490,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="580.000000" y="580.000000" width="500.000000" height="10.000000"  />
 <text x="583" y="588" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="588" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#54 - 766.50</text>
+<text x="30" y="588" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#54 - 15.33</text>
 
 <line x1=  "50.000000" y1=  "580.000000" x2=  "1910.000000" y2=  "580.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -499,7 +499,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="550.000000" y="590.000000" width="500.000000" height="10.000000"  />
 <text x="553" y="598" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="598" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#55 - 766.61</text>
+<text x="30" y="598" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#55 - 15.33</text>
 
 <line x1=  "50.000000" y1=  "590.000000" x2=  "1910.000000" y2=  "590.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -508,7 +508,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="560.000000" y="600.000000" width="500.000000" height="10.000000"  />
 <text x="563" y="608" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="608" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#56 - 766.71</text>
+<text x="30" y="608" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#56 - 15.33</text>
 
 <line x1=  "50.000000" y1=  "600.000000" x2=  "1910.000000" y2=  "600.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -517,7 +517,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="570.000000" y="610.000000" width="500.000000" height="10.000000"  />
 <text x="573" y="618" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="618" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#57 - 766.71</text>
+<text x="30" y="618" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#57 - 15.33</text>
 
 <line x1=  "50.000000" y1=  "610.000000" x2=  "1910.000000" y2=  "610.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -526,7 +526,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="650.000000" y="620.000000" width="500.000000" height="10.000000"  />
 <text x="653" y="628" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="628" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#58 - 767.20</text>
+<text x="30" y="628" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#58 - 15.34</text>
 
 <line x1=  "50.000000" y1=  "620.000000" x2=  "1910.000000" y2=  "620.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -535,7 +535,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="660.000000" y="630.000000" width="500.000000" height="10.000000"  />
 <text x="663" y="638" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="638" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#59 - 767.81</text>
+<text x="30" y="638" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#59 - 15.35</text>
 
 <line x1=  "50.000000" y1=  "630.000000" x2=  "1910.000000" y2=  "630.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -544,7 +544,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="670.000000" y="640.000000" width="500.000000" height="10.000000"  />
 <text x="673" y="648" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="648" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#60 - 768.42</text>
+<text x="30" y="648" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#60 - 15.36</text>
 
 <line x1=  "50.000000" y1=  "640.000000" x2=  "1910.000000" y2=  "640.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -553,7 +553,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="680.000000" y="650.000000" width="500.000000" height="10.000000"  />
 <text x="683" y="658" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="658" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#61 - 769.04</text>
+<text x="30" y="658" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#61 - 15.38</text>
 
 <line x1=  "50.000000" y1=  "650.000000" x2=  "1910.000000" y2=  "650.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -562,7 +562,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="690.000000" y="660.000000" width="500.000000" height="10.000000"  />
 <text x="693" y="668" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="668" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#62 - 769.70</text>
+<text x="30" y="668" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#62 - 15.39</text>
 
 <line x1=  "50.000000" y1=  "660.000000" x2=  "1910.000000" y2=  "660.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -571,7 +571,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="700.000000" y="670.000000" width="500.000000" height="10.000000"  />
 <text x="703" y="678" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="678" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#63 - 770.32</text>
+<text x="30" y="678" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#63 - 15.40</text>
 
 <line x1=  "50.000000" y1=  "670.000000" x2=  "1910.000000" y2=  "670.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -580,7 +580,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="710.000000" y="680.000000" width="500.000000" height="10.000000"  />
 <text x="713" y="688" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="688" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#64 - 770.90</text>
+<text x="30" y="688" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#64 - 15.41</text>
 
 <line x1=  "50.000000" y1=  "680.000000" x2=  "1910.000000" y2=  "680.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -589,7 +589,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="720.000000" y="690.000000" width="500.000000" height="10.000000"  />
 <text x="723" y="698" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="698" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#65 - 771.49</text>
+<text x="30" y="698" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#65 - 15.42</text>
 
 <line x1=  "50.000000" y1=  "690.000000" x2=  "1910.000000" y2=  "690.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -598,7 +598,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="730.000000" y="700.000000" width="500.000000" height="10.000000"  />
 <text x="733" y="708" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="708" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#66 - 771.88</text>
+<text x="30" y="708" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#66 - 15.43</text>
 
 <line x1=  "50.000000" y1=  "700.000000" x2=  "1910.000000" y2=  "700.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -607,7 +607,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="740.000000" y="710.000000" width="500.000000" height="10.000000"  />
 <text x="743" y="718" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="718" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#67 - 772.10</text>
+<text x="30" y="718" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#67 - 15.44</text>
 
 <line x1=  "50.000000" y1=  "710.000000" x2=  "1910.000000" y2=  "710.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -616,7 +616,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="750.000000" y="720.000000" width="500.000000" height="10.000000"  />
 <text x="753" y="728" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="728" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#68 - 772.26</text>
+<text x="30" y="728" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#68 - 15.44</text>
 
 <line x1=  "50.000000" y1=  "720.000000" x2=  "1910.000000" y2=  "720.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -625,7 +625,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="760.000000" y="730.000000" width="500.000000" height="10.000000"  />
 <text x="763" y="738" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="738" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#69 - 772.33</text>
+<text x="30" y="738" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#69 - 15.44</text>
 
 <line x1=  "50.000000" y1=  "730.000000" x2=  "1910.000000" y2=  "730.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -634,7 +634,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="770.000000" y="740.000000" width="500.000000" height="10.000000"  />
 <text x="773" y="748" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="748" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#70 - 772.40</text>
+<text x="30" y="748" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#70 - 15.44</text>
 
 <line x1=  "50.000000" y1=  "740.000000" x2=  "1910.000000" y2=  "740.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -643,7 +643,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="780.000000" y="750.000000" width="500.000000" height="10.000000"  />
 <text x="783" y="758" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="758" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#71 - 772.59</text>
+<text x="30" y="758" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#71 - 15.45</text>
 
 <line x1=  "50.000000" y1=  "750.000000" x2=  "1910.000000" y2=  "750.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -652,7 +652,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="790.000000" y="760.000000" width="500.000000" height="10.000000"  />
 <text x="793" y="768" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="768" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#72 - 773.28</text>
+<text x="30" y="768" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#72 - 15.46</text>
 
 <line x1=  "50.000000" y1=  "760.000000" x2=  "1910.000000" y2=  "760.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -661,7 +661,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="800.000000" y="770.000000" width="500.000000" height="10.000000"  />
 <text x="803" y="778" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="778" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#73 - 774.02</text>
+<text x="30" y="778" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#73 - 15.48</text>
 
 <line x1=  "50.000000" y1=  "770.000000" x2=  "1910.000000" y2=  "770.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -670,7 +670,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="810.000000" y="780.000000" width="500.000000" height="10.000000"  />
 <text x="813" y="788" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="788" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#74 - 774.59</text>
+<text x="30" y="788" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#74 - 15.49</text>
 
 <line x1=  "50.000000" y1=  "780.000000" x2=  "1910.000000" y2=  "780.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -679,7 +679,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="820.000000" y="790.000000" width="500.000000" height="10.000000"  />
 <text x="823" y="798" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="798" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#75 - 775.19</text>
+<text x="30" y="798" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#75 - 15.50</text>
 
 <line x1=  "50.000000" y1=  "790.000000" x2=  "1910.000000" y2=  "790.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -688,7 +688,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="830.000000" y="800.000000" width="500.000000" height="10.000000"  />
 <text x="833" y="808" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="808" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#76 - 775.77</text>
+<text x="30" y="808" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#76 - 15.51</text>
 
 <line x1=  "50.000000" y1=  "800.000000" x2=  "1910.000000" y2=  "800.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -697,7 +697,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="840.000000" y="810.000000" width="500.000000" height="10.000000"  />
 <text x="843" y="818" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="818" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#77 - 776.26</text>
+<text x="30" y="818" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#77 - 15.52</text>
 
 <line x1=  "50.000000" y1=  "810.000000" x2=  "1910.000000" y2=  "810.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -706,7 +706,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="850.000000" y="820.000000" width="500.000000" height="10.000000"  />
 <text x="853" y="828" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="828" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#78 - 776.86</text>
+<text x="30" y="828" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#78 - 15.53</text>
 
 <line x1=  "50.000000" y1=  "820.000000" x2=  "1910.000000" y2=  "820.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -715,7 +715,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="860.000000" y="830.000000" width="500.000000" height="10.000000"  />
 <text x="863" y="838" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="838" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#79 - 777.50</text>
+<text x="30" y="838" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#79 - 15.55</text>
 
 <line x1=  "50.000000" y1=  "830.000000" x2=  "1910.000000" y2=  "830.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -724,7 +724,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="870.000000" y="840.000000" width="500.000000" height="10.000000"  />
 <text x="873" y="848" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="848" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#80 - 778.20</text>
+<text x="30" y="848" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#80 - 15.56</text>
 
 <line x1=  "50.000000" y1=  "840.000000" x2=  "1910.000000" y2=  "840.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -733,7 +733,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="880.000000" y="850.000000" width="500.000000" height="10.000000"  />
 <text x="883" y="858" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="858" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#81 - 779.07</text>
+<text x="30" y="858" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#81 - 15.58</text>
 
 <line x1=  "50.000000" y1=  "850.000000" x2=  "1910.000000" y2=  "850.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -742,7 +742,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="890.000000" y="860.000000" width="500.000000" height="10.000000"  />
 <text x="893" y="868" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="868" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#82 - 780.18</text>
+<text x="30" y="868" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#82 - 15.60</text>
 
 <line x1=  "50.000000" y1=  "860.000000" x2=  "1910.000000" y2=  "860.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -751,7 +751,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="900.000000" y="870.000000" width="500.000000" height="10.000000"  />
 <text x="903" y="878" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="878" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#83 - 781.40</text>
+<text x="30" y="878" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#83 - 15.62</text>
 
 <line x1=  "50.000000" y1=  "870.000000" x2=  "1910.000000" y2=  "870.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -760,7 +760,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="910.000000" y="880.000000" width="500.000000" height="10.000000"  />
 <text x="913" y="888" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="888" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#84 - 782.68</text>
+<text x="30" y="888" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#84 - 15.65</text>
 
 <line x1=  "50.000000" y1=  "880.000000" x2=  "1910.000000" y2=  "880.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -769,7 +769,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="920.000000" y="890.000000" width="500.000000" height="10.000000"  />
 <text x="923" y="898" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="898" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#85 - 784.05</text>
+<text x="30" y="898" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#85 - 15.68</text>
 
 <line x1=  "50.000000" y1=  "890.000000" x2=  "1910.000000" y2=  "890.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -778,7 +778,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="930.000000" y="900.000000" width="500.000000" height="10.000000"  />
 <text x="933" y="908" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="908" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#86 - 786.06</text>
+<text x="30" y="908" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#86 - 15.72</text>
 
 <line x1=  "50.000000" y1=  "900.000000" x2=  "1910.000000" y2=  "900.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -787,7 +787,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="940.000000" y="910.000000" width="500.000000" height="10.000000"  />
 <text x="943" y="918" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="918" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#87 - 787.82</text>
+<text x="30" y="918" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#87 - 15.75</text>
 
 <line x1=  "50.000000" y1=  "910.000000" x2=  "1910.000000" y2=  "910.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -796,7 +796,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="950.000000" y="920.000000" width="500.000000" height="10.000000"  />
 <text x="953" y="928" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="928" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#88 - 789.42</text>
+<text x="30" y="928" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#88 - 15.78</text>
 
 <line x1=  "50.000000" y1=  "920.000000" x2=  "1910.000000" y2=  "920.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -805,7 +805,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="960.000000" y="930.000000" width="500.000000" height="10.000000"  />
 <text x="963" y="938" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="938" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#89 - 791.49</text>
+<text x="30" y="938" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#89 - 15.82</text>
 
 <line x1=  "50.000000" y1=  "930.000000" x2=  "1910.000000" y2=  "930.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -814,7 +814,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="970.000000" y="940.000000" width="500.000000" height="10.000000"  />
 <text x="973" y="948" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="948" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#90 - 792.25</text>
+<text x="30" y="948" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#90 - 15.84</text>
 
 <line x1=  "50.000000" y1=  "940.000000" x2=  "1910.000000" y2=  "940.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -823,7 +823,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="980.000000" y="950.000000" width="500.000000" height="10.000000"  />
 <text x="983" y="958" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="958" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#91 - 792.81</text>
+<text x="30" y="958" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#91 - 15.85</text>
 
 <line x1=  "50.000000" y1=  "950.000000" x2=  "1910.000000" y2=  "950.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -832,7 +832,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="990.000000" y="960.000000" width="500.000000" height="10.000000"  />
 <text x="993" y="968" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="968" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#92 - 793.86</text>
+<text x="30" y="968" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#92 - 15.87</text>
 
 <line x1=  "50.000000" y1=  "960.000000" x2=  "1910.000000" y2=  "960.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -841,7 +841,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1000.000000" y="970.000000" width="500.000000" height="10.000000"  />
 <text x="1003" y="978" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="978" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#93 - 794.77</text>
+<text x="30" y="978" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#93 - 15.89</text>
 
 <line x1=  "50.000000" y1=  "970.000000" x2=  "1910.000000" y2=  "970.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -850,7 +850,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1010.000000" y="980.000000" width="500.000000" height="10.000000"  />
 <text x="1013" y="988" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="988" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#94 - 795.48</text>
+<text x="30" y="988" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#94 - 15.90</text>
 
 <line x1=  "50.000000" y1=  "980.000000" x2=  "1910.000000" y2=  "980.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -859,7 +859,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1020.000000" y="990.000000" width="500.000000" height="10.000000"  />
 <text x="1023" y="998" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="998" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#95 - 796.11</text>
+<text x="30" y="998" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#95 - 15.92</text>
 
 <line x1=  "50.000000" y1=  "990.000000" x2=  "1910.000000" y2=  "990.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -868,7 +868,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1030.000000" y="1000.000000" width="500.000000" height="10.000000"  />
 <text x="1033" y="1008" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1008" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#96 - 796.92</text>
+<text x="30" y="1008" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#96 - 15.93</text>
 
 <line x1=  "50.000000" y1=  "1000.000000" x2=  "1910.000000" y2=  "1000.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -877,7 +877,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1040.000000" y="1010.000000" width="500.000000" height="10.000000"  />
 <text x="1043" y="1018" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1018" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#97 - 797.46</text>
+<text x="30" y="1018" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#97 - 15.94</text>
 
 <line x1=  "50.000000" y1=  "1010.000000" x2=  "1910.000000" y2=  "1010.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -886,7 +886,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1050.000000" y="1020.000000" width="500.000000" height="10.000000"  />
 <text x="1053" y="1028" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1028" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#98 - 798.36</text>
+<text x="30" y="1028" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#98 - 15.96</text>
 
 <line x1=  "50.000000" y1=  "1020.000000" x2=  "1910.000000" y2=  "1020.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -895,7 +895,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1060.000000" y="1030.000000" width="500.000000" height="10.000000"  />
 <text x="1063" y="1038" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1038" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#99 - 799.30</text>
+<text x="30" y="1038" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#99 - 15.98</text>
 
 <line x1=  "50.000000" y1=  "1030.000000" x2=  "1910.000000" y2=  "1030.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -904,7 +904,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1070.000000" y="1040.000000" width="500.000000" height="10.000000"  />
 <text x="1073" y="1048" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1048" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#100 - 800.36</text>
+<text x="30" y="1048" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#100 - 16.00</text>
 
 <line x1=  "50.000000" y1=  "1040.000000" x2=  "1910.000000" y2=  "1040.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -913,7 +913,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1080.000000" y="1050.000000" width="500.000000" height="10.000000"  />
 <text x="1083" y="1058" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1058" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#101 - 801.61</text>
+<text x="30" y="1058" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#101 - 16.03</text>
 
 <line x1=  "50.000000" y1=  "1050.000000" x2=  "1910.000000" y2=  "1050.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -922,7 +922,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1090.000000" y="1060.000000" width="500.000000" height="10.000000"  />
 <text x="1093" y="1068" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1068" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#102 - 802.78</text>
+<text x="30" y="1068" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#102 - 16.05</text>
 
 <line x1=  "50.000000" y1=  "1060.000000" x2=  "1910.000000" y2=  "1060.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -931,7 +931,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1100.000000" y="1070.000000" width="500.000000" height="10.000000"  />
 <text x="1103" y="1078" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1078" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#103 - 804.49</text>
+<text x="30" y="1078" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#103 - 16.08</text>
 
 <line x1=  "50.000000" y1=  "1070.000000" x2=  "1910.000000" y2=  "1070.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -940,7 +940,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1110.000000" y="1080.000000" width="500.000000" height="10.000000"  />
 <text x="1113" y="1088" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1088" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#104 - 807.17</text>
+<text x="30" y="1088" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#104 - 16.14</text>
 
 <line x1=  "50.000000" y1=  "1080.000000" x2=  "1910.000000" y2=  "1080.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -949,7 +949,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1120.000000" y="1090.000000" width="500.000000" height="10.000000"  />
 <text x="1123" y="1098" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1098" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#105 - 810.22</text>
+<text x="30" y="1098" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#105 - 16.20</text>
 
 <line x1=  "50.000000" y1=  "1090.000000" x2=  "1910.000000" y2=  "1090.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -958,7 +958,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1130.000000" y="1100.000000" width="500.000000" height="10.000000"  />
 <text x="1133" y="1108" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1108" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#106 - 814.33</text>
+<text x="30" y="1108" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#106 - 16.28</text>
 
 <line x1=  "50.000000" y1=  "1100.000000" x2=  "1910.000000" y2=  "1100.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -967,7 +967,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(55,23,100); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1140.000000" y="1110.000000" width="500.000000" height="10.000000"  />
 <text x="1143" y="1118" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">2</text>
 
-<text x="30" y="1118" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#107 - 820.38</text>
+<text x="30" y="1118" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#107 - 16.40</text>
 
 <line x1=  "50.000000" y1=  "1110.000000" x2=  "1910.000000" y2=  "1110.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -976,7 +976,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="230.000000" y="1120.000000" width="500.000000" height="10.000000"  />
 <text x="233" y="1128" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1128" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#108 - 884.92</text>
+<text x="30" y="1128" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#108 - 17.69</text>
 
 <line x1=  "50.000000" y1=  "1120.000000" x2=  "1910.000000" y2=  "1120.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -985,7 +985,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="220.000000" y="1130.000000" width="500.000000" height="10.000000"  />
 <text x="223" y="1138" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1138" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#109 - 885.07</text>
+<text x="30" y="1138" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#109 - 17.70</text>
 
 <line x1=  "50.000000" y1=  "1130.000000" x2=  "1910.000000" y2=  "1130.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -994,7 +994,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="240.000000" y="1140.000000" width="500.000000" height="10.000000"  />
 <text x="243" y="1148" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1148" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#110 - 885.24</text>
+<text x="30" y="1148" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#110 - 17.70</text>
 
 <line x1=  "50.000000" y1=  "1140.000000" x2=  "1910.000000" y2=  "1140.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1003,7 +1003,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="210.000000" y="1150.000000" width="500.000000" height="10.000000"  />
 <text x="213" y="1158" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1158" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#111 - 885.37</text>
+<text x="30" y="1158" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#111 - 17.70</text>
 
 <line x1=  "50.000000" y1=  "1150.000000" x2=  "1910.000000" y2=  "1150.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1012,7 +1012,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="190.000000" y="1160.000000" width="500.000000" height="10.000000"  />
 <text x="193" y="1168" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1168" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#112 - 885.70</text>
+<text x="30" y="1168" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#112 - 17.71</text>
 
 <line x1=  "50.000000" y1=  "1160.000000" x2=  "1910.000000" y2=  "1160.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1021,7 +1021,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="300.000000" y="1170.000000" width="500.000000" height="10.000000"  />
 <text x="303" y="1178" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1178" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#113 - 885.81</text>
+<text x="30" y="1178" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#113 - 17.71</text>
 
 <line x1=  "50.000000" y1=  "1170.000000" x2=  "1910.000000" y2=  "1170.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1030,7 +1030,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="200.000000" y="1180.000000" width="500.000000" height="10.000000"  />
 <text x="203" y="1188" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1188" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#114 - 885.82</text>
+<text x="30" y="1188" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#114 - 17.71</text>
 
 <line x1=  "50.000000" y1=  "1180.000000" x2=  "1910.000000" y2=  "1180.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1039,7 +1039,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="180.000000" y="1190.000000" width="500.000000" height="10.000000"  />
 <text x="183" y="1198" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1198" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#115 - 885.86</text>
+<text x="30" y="1198" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#115 - 17.71</text>
 
 <line x1=  "50.000000" y1=  "1190.000000" x2=  "1910.000000" y2=  "1190.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1048,7 +1048,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="250.000000" y="1200.000000" width="500.000000" height="10.000000"  />
 <text x="253" y="1208" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1208" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#116 - 885.97</text>
+<text x="30" y="1208" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#116 - 17.71</text>
 
 <line x1=  "50.000000" y1=  "1200.000000" x2=  "1910.000000" y2=  "1200.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1057,7 +1057,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="130.000000" y="1210.000000" width="500.000000" height="10.000000"  />
 <text x="133" y="1218" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1218" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#117 - 885.99</text>
+<text x="30" y="1218" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#117 - 17.71</text>
 
 <line x1=  "50.000000" y1=  "1210.000000" x2=  "1910.000000" y2=  "1210.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1066,7 +1066,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="140.000000" y="1220.000000" width="500.000000" height="10.000000"  />
 <text x="143" y="1228" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1228" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#118 - 886.06</text>
+<text x="30" y="1228" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#118 - 17.72</text>
 
 <line x1=  "50.000000" y1=  "1220.000000" x2=  "1910.000000" y2=  "1220.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1075,7 +1075,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="170.000000" y="1230.000000" width="500.000000" height="10.000000"  />
 <text x="173" y="1238" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1238" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#119 - 886.11</text>
+<text x="30" y="1238" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#119 - 17.72</text>
 
 <line x1=  "50.000000" y1=  "1230.000000" x2=  "1910.000000" y2=  "1230.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1084,7 +1084,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="290.000000" y="1240.000000" width="500.000000" height="10.000000"  />
 <text x="293" y="1248" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1248" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#120 - 886.23</text>
+<text x="30" y="1248" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#120 - 17.72</text>
 
 <line x1=  "50.000000" y1=  "1240.000000" x2=  "1910.000000" y2=  "1240.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1093,7 +1093,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="160.000000" y="1250.000000" width="500.000000" height="10.000000"  />
 <text x="163" y="1258" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1258" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#121 - 886.31</text>
+<text x="30" y="1258" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#121 - 17.72</text>
 
 <line x1=  "50.000000" y1=  "1250.000000" x2=  "1910.000000" y2=  "1250.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1102,7 +1102,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="310.000000" y="1260.000000" width="500.000000" height="10.000000"  />
 <text x="313" y="1268" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1268" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#122 - 886.34</text>
+<text x="30" y="1268" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#122 - 17.72</text>
 
 <line x1=  "50.000000" y1=  "1260.000000" x2=  "1910.000000" y2=  "1260.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1111,7 +1111,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="150.000000" y="1270.000000" width="500.000000" height="10.000000"  />
 <text x="153" y="1278" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1278" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#123 - 886.50</text>
+<text x="30" y="1278" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#123 - 17.73</text>
 
 <line x1=  "50.000000" y1=  "1270.000000" x2=  "1910.000000" y2=  "1270.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1120,7 +1120,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="260.000000" y="1280.000000" width="500.000000" height="10.000000"  />
 <text x="263" y="1288" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1288" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#124 - 886.54</text>
+<text x="30" y="1288" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#124 - 17.73</text>
 
 <line x1=  "50.000000" y1=  "1280.000000" x2=  "1910.000000" y2=  "1280.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1129,7 +1129,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="120.000000" y="1290.000000" width="500.000000" height="10.000000"  />
 <text x="123" y="1298" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1298" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#125 - 886.58</text>
+<text x="30" y="1298" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#125 - 17.73</text>
 
 <line x1=  "50.000000" y1=  "1290.000000" x2=  "1910.000000" y2=  "1290.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1138,7 +1138,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="320.000000" y="1300.000000" width="500.000000" height="10.000000"  />
 <text x="323" y="1308" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1308" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#126 - 886.87</text>
+<text x="30" y="1308" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#126 - 17.73</text>
 
 <line x1=  "50.000000" y1=  "1300.000000" x2=  "1910.000000" y2=  "1300.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1147,7 +1147,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="280.000000" y="1310.000000" width="500.000000" height="10.000000"  />
 <text x="283" y="1318" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1318" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#127 - 886.90</text>
+<text x="30" y="1318" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#127 - 17.73</text>
 
 <line x1=  "50.000000" y1=  "1310.000000" x2=  "1910.000000" y2=  "1310.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1156,7 +1156,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="270.000000" y="1320.000000" width="500.000000" height="10.000000"  />
 <text x="273" y="1328" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1328" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#128 - 886.95</text>
+<text x="30" y="1328" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#128 - 17.73</text>
 
 <line x1=  "50.000000" y1=  "1320.000000" x2=  "1910.000000" y2=  "1320.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1165,7 +1165,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="110.000000" y="1330.000000" width="500.000000" height="10.000000"  />
 <text x="113" y="1338" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1338" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#129 - 887.30</text>
+<text x="30" y="1338" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#129 - 17.74</text>
 
 <line x1=  "50.000000" y1=  "1330.000000" x2=  "1910.000000" y2=  "1330.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1174,7 +1174,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="330.000000" y="1340.000000" width="500.000000" height="10.000000"  />
 <text x="333" y="1348" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1348" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#130 - 887.48</text>
+<text x="30" y="1348" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#130 - 17.74</text>
 
 <line x1=  "50.000000" y1=  "1340.000000" x2=  "1910.000000" y2=  "1340.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1183,7 +1183,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="340.000000" y="1350.000000" width="500.000000" height="10.000000"  />
 <text x="343" y="1358" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1358" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#131 - 887.61</text>
+<text x="30" y="1358" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#131 - 17.75</text>
 
 <line x1=  "50.000000" y1=  "1350.000000" x2=  "1910.000000" y2=  "1350.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1192,7 +1192,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="350.000000" y="1360.000000" width="500.000000" height="10.000000"  />
 <text x="353" y="1368" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1368" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#132 - 887.66</text>
+<text x="30" y="1368" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#132 - 17.75</text>
 
 <line x1=  "50.000000" y1=  "1360.000000" x2=  "1910.000000" y2=  "1360.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1201,7 +1201,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="360.000000" y="1370.000000" width="500.000000" height="10.000000"  />
 <text x="363" y="1378" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1378" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#133 - 887.89</text>
+<text x="30" y="1378" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#133 - 17.75</text>
 
 <line x1=  "50.000000" y1=  "1370.000000" x2=  "1910.000000" y2=  "1370.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1210,7 +1210,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="100.000000" y="1380.000000" width="500.000000" height="10.000000"  />
 <text x="103" y="1388" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1388" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#134 - 888.18</text>
+<text x="30" y="1388" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#134 - 17.76</text>
 
 <line x1=  "50.000000" y1=  "1380.000000" x2=  "1910.000000" y2=  "1380.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1219,7 +1219,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="370.000000" y="1390.000000" width="500.000000" height="10.000000"  />
 <text x="373" y="1398" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1398" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#135 - 888.28</text>
+<text x="30" y="1398" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#135 - 17.76</text>
 
 <line x1=  "50.000000" y1=  "1390.000000" x2=  "1910.000000" y2=  "1390.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1228,7 +1228,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="380.000000" y="1400.000000" width="500.000000" height="10.000000"  />
 <text x="383" y="1408" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1408" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#136 - 888.84</text>
+<text x="30" y="1408" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#136 - 17.77</text>
 
 <line x1=  "50.000000" y1=  "1400.000000" x2=  "1910.000000" y2=  "1400.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1237,7 +1237,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="90.000000" y="1410.000000" width="500.000000" height="10.000000"  />
 <text x="93" y="1418" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1418" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#137 - 889.42</text>
+<text x="30" y="1418" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#137 - 17.78</text>
 
 <line x1=  "50.000000" y1=  "1410.000000" x2=  "1910.000000" y2=  "1410.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1246,7 +1246,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="390.000000" y="1420.000000" width="500.000000" height="10.000000"  />
 <text x="393" y="1428" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1428" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#138 - 889.68</text>
+<text x="30" y="1428" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#138 - 17.79</text>
 
 <line x1=  "50.000000" y1=  "1420.000000" x2=  "1910.000000" y2=  "1420.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1255,7 +1255,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="400.000000" y="1430.000000" width="500.000000" height="10.000000"  />
 <text x="403" y="1438" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1438" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#139 - 890.57</text>
+<text x="30" y="1438" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#139 - 17.81</text>
 
 <line x1=  "50.000000" y1=  "1430.000000" x2=  "1910.000000" y2=  "1430.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1264,7 +1264,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="80.000000" y="1440.000000" width="500.000000" height="10.000000"  />
 <text x="83" y="1448" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1448" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#140 - 890.59</text>
+<text x="30" y="1448" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#140 - 17.81</text>
 
 <line x1=  "50.000000" y1=  "1440.000000" x2=  "1910.000000" y2=  "1440.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1273,7 +1273,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="410.000000" y="1450.000000" width="500.000000" height="10.000000"  />
 <text x="413" y="1458" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1458" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#141 - 891.36</text>
+<text x="30" y="1458" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#141 - 17.82</text>
 
 <line x1=  "50.000000" y1=  "1450.000000" x2=  "1910.000000" y2=  "1450.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1282,7 +1282,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="490.000000" y="1460.000000" width="500.000000" height="10.000000"  />
 <text x="493" y="1468" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1468" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#142 - 891.90</text>
+<text x="30" y="1468" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#142 - 17.83</text>
 
 <line x1=  "50.000000" y1=  "1460.000000" x2=  "1910.000000" y2=  "1460.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1291,7 +1291,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="420.000000" y="1470.000000" width="500.000000" height="10.000000"  />
 <text x="423" y="1478" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1478" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#143 - 891.90</text>
+<text x="30" y="1478" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#143 - 17.83</text>
 
 <line x1=  "50.000000" y1=  "1470.000000" x2=  "1910.000000" y2=  "1470.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1300,7 +1300,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="480.000000" y="1480.000000" width="500.000000" height="10.000000"  />
 <text x="483" y="1488" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1488" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#144 - 892.06</text>
+<text x="30" y="1488" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#144 - 17.84</text>
 
 <line x1=  "50.000000" y1=  "1480.000000" x2=  "1910.000000" y2=  "1480.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1309,7 +1309,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="430.000000" y="1490.000000" width="500.000000" height="10.000000"  />
 <text x="433" y="1498" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1498" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#145 - 892.20</text>
+<text x="30" y="1498" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#145 - 17.84</text>
 
 <line x1=  "50.000000" y1=  "1490.000000" x2=  "1910.000000" y2=  "1490.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1318,7 +1318,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="440.000000" y="1500.000000" width="500.000000" height="10.000000"  />
 <text x="443" y="1508" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1508" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#146 - 892.31</text>
+<text x="30" y="1508" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#146 - 17.84</text>
 
 <line x1=  "50.000000" y1=  "1500.000000" x2=  "1910.000000" y2=  "1500.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1327,7 +1327,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="450.000000" y="1510.000000" width="500.000000" height="10.000000"  />
 <text x="453" y="1518" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1518" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#147 - 892.47</text>
+<text x="30" y="1518" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#147 - 17.84</text>
 
 <line x1=  "50.000000" y1=  "1510.000000" x2=  "1910.000000" y2=  "1510.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1336,7 +1336,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="470.000000" y="1520.000000" width="500.000000" height="10.000000"  />
 <text x="473" y="1528" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1528" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#148 - 892.49</text>
+<text x="30" y="1528" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#148 - 17.84</text>
 
 <line x1=  "50.000000" y1=  "1520.000000" x2=  "1910.000000" y2=  "1520.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1345,7 +1345,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="500.000000" y="1530.000000" width="500.000000" height="10.000000"  />
 <text x="503" y="1538" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1538" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#149 - 892.54</text>
+<text x="30" y="1538" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#149 - 17.85</text>
 
 <line x1=  "50.000000" y1=  "1530.000000" x2=  "1910.000000" y2=  "1530.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1354,7 +1354,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="460.000000" y="1540.000000" width="500.000000" height="10.000000"  />
 <text x="463" y="1548" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1548" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#150 - 892.62</text>
+<text x="30" y="1548" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#150 - 17.85</text>
 
 <line x1=  "50.000000" y1=  "1540.000000" x2=  "1910.000000" y2=  "1540.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1363,7 +1363,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="510.000000" y="1550.000000" width="500.000000" height="10.000000"  />
 <text x="513" y="1558" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1558" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#151 - 893.32</text>
+<text x="30" y="1558" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#151 - 17.86</text>
 
 <line x1=  "50.000000" y1=  "1550.000000" x2=  "1910.000000" y2=  "1550.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1372,7 +1372,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="520.000000" y="1560.000000" width="500.000000" height="10.000000"  />
 <text x="523" y="1568" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1568" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#152 - 894.51</text>
+<text x="30" y="1568" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#152 - 17.89</text>
 
 <line x1=  "50.000000" y1=  "1560.000000" x2=  "1910.000000" y2=  "1560.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1381,7 +1381,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="530.000000" y="1570.000000" width="500.000000" height="10.000000"  />
 <text x="533" y="1578" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1578" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#153 - 895.54</text>
+<text x="30" y="1578" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#153 - 17.91</text>
 
 <line x1=  "50.000000" y1=  "1570.000000" x2=  "1910.000000" y2=  "1570.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1390,7 +1390,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="540.000000" y="1580.000000" width="500.000000" height="10.000000"  />
 <text x="543" y="1588" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1588" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#154 - 896.97</text>
+<text x="30" y="1588" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#154 - 17.93</text>
 
 <line x1=  "50.000000" y1=  "1580.000000" x2=  "1910.000000" y2=  "1580.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1399,7 +1399,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="570.000000" y="1590.000000" width="500.000000" height="10.000000"  />
 <text x="573" y="1598" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1598" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#155 - 897.64</text>
+<text x="30" y="1598" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#155 - 17.95</text>
 
 <line x1=  "50.000000" y1=  "1590.000000" x2=  "1910.000000" y2=  "1590.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1408,7 +1408,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="560.000000" y="1600.000000" width="500.000000" height="10.000000"  />
 <text x="563" y="1608" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1608" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#156 - 897.80</text>
+<text x="30" y="1608" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#156 - 17.95</text>
 
 <line x1=  "50.000000" y1=  "1600.000000" x2=  "1910.000000" y2=  "1600.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1417,7 +1417,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="550.000000" y="1610.000000" width="500.000000" height="10.000000"  />
 <text x="553" y="1618" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1618" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#157 - 897.98</text>
+<text x="30" y="1618" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#157 - 17.95</text>
 
 <line x1=  "50.000000" y1=  "1610.000000" x2=  "1910.000000" y2=  "1610.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1426,7 +1426,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="580.000000" y="1620.000000" width="500.000000" height="10.000000"  />
 <text x="583" y="1628" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1628" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#158 - 898.19</text>
+<text x="30" y="1628" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#158 - 17.96</text>
 
 <line x1=  "50.000000" y1=  "1620.000000" x2=  "1910.000000" y2=  "1620.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1435,7 +1435,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="590.000000" y="1630.000000" width="500.000000" height="10.000000"  />
 <text x="593" y="1638" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1638" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#159 - 899.12</text>
+<text x="30" y="1638" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#159 - 17.98</text>
 
 <line x1=  "50.000000" y1=  "1630.000000" x2=  "1910.000000" y2=  "1630.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1444,7 +1444,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="600.000000" y="1640.000000" width="500.000000" height="10.000000"  />
 <text x="603" y="1648" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1648" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#160 - 900.09</text>
+<text x="30" y="1648" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#160 - 18.00</text>
 
 <line x1=  "50.000000" y1=  "1640.000000" x2=  "1910.000000" y2=  "1640.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1453,7 +1453,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="610.000000" y="1650.000000" width="500.000000" height="10.000000"  />
 <text x="613" y="1658" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1658" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#161 - 901.15</text>
+<text x="30" y="1658" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#161 - 18.02</text>
 
 <line x1=  "50.000000" y1=  "1650.000000" x2=  "1910.000000" y2=  "1650.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1462,7 +1462,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="620.000000" y="1660.000000" width="500.000000" height="10.000000"  />
 <text x="623" y="1668" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1668" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#162 - 902.59</text>
+<text x="30" y="1668" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#162 - 18.05</text>
 
 <line x1=  "50.000000" y1=  "1660.000000" x2=  "1910.000000" y2=  "1660.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1471,7 +1471,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="630.000000" y="1670.000000" width="500.000000" height="10.000000"  />
 <text x="633" y="1678" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1678" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#163 - 904.31</text>
+<text x="30" y="1678" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#163 - 18.08</text>
 
 <line x1=  "50.000000" y1=  "1670.000000" x2=  "1910.000000" y2=  "1670.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1480,7 +1480,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="640.000000" y="1680.000000" width="500.000000" height="10.000000"  />
 <text x="643" y="1688" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1688" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#164 - 905.38</text>
+<text x="30" y="1688" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#164 - 18.10</text>
 
 <line x1=  "50.000000" y1=  "1680.000000" x2=  "1910.000000" y2=  "1680.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1489,7 +1489,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="650.000000" y="1690.000000" width="500.000000" height="10.000000"  />
 <text x="653" y="1698" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1698" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#165 - 905.58</text>
+<text x="30" y="1698" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#165 - 18.11</text>
 
 <line x1=  "50.000000" y1=  "1690.000000" x2=  "1910.000000" y2=  "1690.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1498,7 +1498,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="660.000000" y="1700.000000" width="500.000000" height="10.000000"  />
 <text x="663" y="1708" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1708" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#166 - 905.92</text>
+<text x="30" y="1708" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#166 - 18.11</text>
 
 <line x1=  "50.000000" y1=  "1700.000000" x2=  "1910.000000" y2=  "1700.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1507,7 +1507,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="670.000000" y="1710.000000" width="500.000000" height="10.000000"  />
 <text x="673" y="1718" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1718" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#167 - 906.47</text>
+<text x="30" y="1718" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#167 - 18.12</text>
 
 <line x1=  "50.000000" y1=  "1710.000000" x2=  "1910.000000" y2=  "1710.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1516,7 +1516,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="680.000000" y="1720.000000" width="500.000000" height="10.000000"  />
 <text x="683" y="1728" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1728" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#168 - 907.04</text>
+<text x="30" y="1728" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#168 - 18.14</text>
 
 <line x1=  "50.000000" y1=  "1720.000000" x2=  "1910.000000" y2=  "1720.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1525,7 +1525,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="690.000000" y="1730.000000" width="500.000000" height="10.000000"  />
 <text x="693" y="1738" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1738" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#169 - 907.55</text>
+<text x="30" y="1738" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#169 - 18.15</text>
 
 <line x1=  "50.000000" y1=  "1730.000000" x2=  "1910.000000" y2=  "1730.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1534,7 +1534,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="700.000000" y="1740.000000" width="500.000000" height="10.000000"  />
 <text x="703" y="1748" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1748" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#170 - 907.76</text>
+<text x="30" y="1748" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#170 - 18.15</text>
 
 <line x1=  "50.000000" y1=  "1740.000000" x2=  "1910.000000" y2=  "1740.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1543,7 +1543,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="710.000000" y="1750.000000" width="500.000000" height="10.000000"  />
 <text x="713" y="1758" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1758" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#171 - 908.11</text>
+<text x="30" y="1758" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#171 - 18.16</text>
 
 <line x1=  "50.000000" y1=  "1750.000000" x2=  "1910.000000" y2=  "1750.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1552,7 +1552,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="720.000000" y="1760.000000" width="500.000000" height="10.000000"  />
 <text x="723" y="1768" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1768" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#172 - 909.73</text>
+<text x="30" y="1768" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#172 - 18.19</text>
 
 <line x1=  "50.000000" y1=  "1760.000000" x2=  "1910.000000" y2=  "1760.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1561,7 +1561,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="750.000000" y="1770.000000" width="500.000000" height="10.000000"  />
 <text x="753" y="1778" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1778" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#173 - 911.31</text>
+<text x="30" y="1778" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#173 - 18.22</text>
 
 <line x1=  "50.000000" y1=  "1770.000000" x2=  "1910.000000" y2=  "1770.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1570,7 +1570,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="760.000000" y="1780.000000" width="500.000000" height="10.000000"  />
 <text x="763" y="1788" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1788" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#174 - 911.33</text>
+<text x="30" y="1788" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#174 - 18.22</text>
 
 <line x1=  "50.000000" y1=  "1780.000000" x2=  "1910.000000" y2=  "1780.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1579,7 +1579,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="770.000000" y="1790.000000" width="500.000000" height="10.000000"  />
 <text x="773" y="1798" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1798" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#175 - 911.41</text>
+<text x="30" y="1798" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#175 - 18.22</text>
 
 <line x1=  "50.000000" y1=  "1790.000000" x2=  "1910.000000" y2=  "1790.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1588,7 +1588,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="730.000000" y="1800.000000" width="500.000000" height="10.000000"  />
 <text x="733" y="1808" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1808" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#176 - 911.41</text>
+<text x="30" y="1808" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#176 - 18.22</text>
 
 <line x1=  "50.000000" y1=  "1800.000000" x2=  "1910.000000" y2=  "1800.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1597,7 +1597,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="740.000000" y="1810.000000" width="500.000000" height="10.000000"  />
 <text x="743" y="1818" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1818" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#177 - 911.44</text>
+<text x="30" y="1818" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#177 - 18.22</text>
 
 <line x1=  "50.000000" y1=  "1810.000000" x2=  "1910.000000" y2=  "1810.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1606,7 +1606,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="780.000000" y="1820.000000" width="500.000000" height="10.000000"  />
 <text x="783" y="1828" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1828" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#178 - 912.03</text>
+<text x="30" y="1828" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#178 - 18.24</text>
 
 <line x1=  "50.000000" y1=  "1820.000000" x2=  "1910.000000" y2=  "1820.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1615,7 +1615,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="790.000000" y="1830.000000" width="500.000000" height="10.000000"  />
 <text x="793" y="1838" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1838" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#179 - 912.47</text>
+<text x="30" y="1838" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#179 - 18.24</text>
 
 <line x1=  "50.000000" y1=  "1830.000000" x2=  "1910.000000" y2=  "1830.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1624,7 +1624,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="800.000000" y="1840.000000" width="500.000000" height="10.000000"  />
 <text x="803" y="1848" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1848" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#180 - 912.54</text>
+<text x="30" y="1848" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#180 - 18.25</text>
 
 <line x1=  "50.000000" y1=  "1840.000000" x2=  "1910.000000" y2=  "1840.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1633,7 +1633,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="810.000000" y="1850.000000" width="500.000000" height="10.000000"  />
 <text x="813" y="1858" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1858" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#181 - 912.99</text>
+<text x="30" y="1858" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#181 - 18.26</text>
 
 <line x1=  "50.000000" y1=  "1850.000000" x2=  "1910.000000" y2=  "1850.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1642,7 +1642,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="820.000000" y="1860.000000" width="500.000000" height="10.000000"  />
 <text x="823" y="1868" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1868" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#182 - 913.36</text>
+<text x="30" y="1868" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#182 - 18.26</text>
 
 <line x1=  "50.000000" y1=  "1860.000000" x2=  "1910.000000" y2=  "1860.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1651,7 +1651,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="830.000000" y="1870.000000" width="500.000000" height="10.000000"  />
 <text x="833" y="1878" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1878" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#183 - 913.78</text>
+<text x="30" y="1878" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#183 - 18.27</text>
 
 <line x1=  "50.000000" y1=  "1870.000000" x2=  "1910.000000" y2=  "1870.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1660,7 +1660,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="840.000000" y="1880.000000" width="500.000000" height="10.000000"  />
 <text x="843" y="1888" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1888" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#184 - 914.54</text>
+<text x="30" y="1888" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#184 - 18.29</text>
 
 <line x1=  "50.000000" y1=  "1880.000000" x2=  "1910.000000" y2=  "1880.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1669,7 +1669,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="850.000000" y="1890.000000" width="500.000000" height="10.000000"  />
 <text x="853" y="1898" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1898" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#185 - 915.62</text>
+<text x="30" y="1898" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#185 - 18.31</text>
 
 <line x1=  "50.000000" y1=  "1890.000000" x2=  "1910.000000" y2=  "1890.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1678,7 +1678,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="860.000000" y="1900.000000" width="500.000000" height="10.000000"  />
 <text x="863" y="1908" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1908" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#186 - 916.59</text>
+<text x="30" y="1908" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#186 - 18.33</text>
 
 <line x1=  "50.000000" y1=  "1900.000000" x2=  "1910.000000" y2=  "1900.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1687,7 +1687,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="870.000000" y="1910.000000" width="500.000000" height="10.000000"  />
 <text x="873" y="1918" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1918" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#187 - 917.65</text>
+<text x="30" y="1918" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#187 - 18.35</text>
 
 <line x1=  "50.000000" y1=  "1910.000000" x2=  "1910.000000" y2=  "1910.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1696,7 +1696,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="880.000000" y="1920.000000" width="500.000000" height="10.000000"  />
 <text x="883" y="1928" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1928" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#188 - 918.79</text>
+<text x="30" y="1928" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#188 - 18.37</text>
 
 <line x1=  "50.000000" y1=  "1920.000000" x2=  "1910.000000" y2=  "1920.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1705,7 +1705,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="890.000000" y="1930.000000" width="500.000000" height="10.000000"  />
 <text x="893" y="1938" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1938" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#189 - 919.80</text>
+<text x="30" y="1938" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#189 - 18.39</text>
 
 <line x1=  "50.000000" y1=  "1930.000000" x2=  "1910.000000" y2=  "1930.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1714,7 +1714,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="900.000000" y="1940.000000" width="500.000000" height="10.000000"  />
 <text x="903" y="1948" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1948" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#190 - 920.70</text>
+<text x="30" y="1948" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#190 - 18.41</text>
 
 <line x1=  "50.000000" y1=  "1940.000000" x2=  "1910.000000" y2=  "1940.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1723,7 +1723,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="910.000000" y="1950.000000" width="500.000000" height="10.000000"  />
 <text x="913" y="1958" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1958" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#191 - 921.69</text>
+<text x="30" y="1958" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#191 - 18.43</text>
 
 <line x1=  "50.000000" y1=  "1950.000000" x2=  "1910.000000" y2=  "1950.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1732,7 +1732,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="920.000000" y="1960.000000" width="500.000000" height="10.000000"  />
 <text x="923" y="1968" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1968" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#192 - 923.07</text>
+<text x="30" y="1968" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#192 - 18.46</text>
 
 <line x1=  "50.000000" y1=  "1960.000000" x2=  "1910.000000" y2=  "1960.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1741,7 +1741,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="930.000000" y="1970.000000" width="500.000000" height="10.000000"  />
 <text x="933" y="1978" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1978" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#193 - 924.09</text>
+<text x="30" y="1978" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#193 - 18.48</text>
 
 <line x1=  "50.000000" y1=  "1970.000000" x2=  "1910.000000" y2=  "1970.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1750,7 +1750,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="940.000000" y="1980.000000" width="500.000000" height="10.000000"  />
 <text x="943" y="1988" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1988" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#194 - 924.89</text>
+<text x="30" y="1988" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#194 - 18.49</text>
 
 <line x1=  "50.000000" y1=  "1980.000000" x2=  "1910.000000" y2=  "1980.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1759,7 +1759,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="950.000000" y="1990.000000" width="500.000000" height="10.000000"  />
 <text x="953" y="1998" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="1998" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#195 - 925.87</text>
+<text x="30" y="1998" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#195 - 18.51</text>
 
 <line x1=  "50.000000" y1=  "1990.000000" x2=  "1910.000000" y2=  "1990.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1768,7 +1768,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="960.000000" y="2000.000000" width="500.000000" height="10.000000"  />
 <text x="963" y="2008" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2008" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#196 - 927.07</text>
+<text x="30" y="2008" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#196 - 18.54</text>
 
 <line x1=  "50.000000" y1=  "2000.000000" x2=  "1910.000000" y2=  "2000.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1777,7 +1777,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="970.000000" y="2010.000000" width="500.000000" height="10.000000"  />
 <text x="973" y="2018" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2018" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#197 - 928.50</text>
+<text x="30" y="2018" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#197 - 18.57</text>
 
 <line x1=  "50.000000" y1=  "2010.000000" x2=  "1910.000000" y2=  "2010.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1786,7 +1786,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="980.000000" y="2020.000000" width="500.000000" height="10.000000"  />
 <text x="983" y="2028" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2028" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#198 - 929.87</text>
+<text x="30" y="2028" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#198 - 18.59</text>
 
 <line x1=  "50.000000" y1=  "2020.000000" x2=  "1910.000000" y2=  "2020.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1795,7 +1795,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="990.000000" y="2030.000000" width="500.000000" height="10.000000"  />
 <text x="993" y="2038" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2038" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#199 - 931.16</text>
+<text x="30" y="2038" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#199 - 18.62</text>
 
 <line x1=  "50.000000" y1=  "2030.000000" x2=  "1910.000000" y2=  "2030.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1804,7 +1804,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1040.000000" y="2040.000000" width="500.000000" height="10.000000"  />
 <text x="1043" y="2048" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2048" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#200 - 931.18</text>
+<text x="30" y="2048" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#200 - 18.62</text>
 
 <line x1=  "50.000000" y1=  "2040.000000" x2=  "1910.000000" y2=  "2040.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1813,7 +1813,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1010.000000" y="2050.000000" width="500.000000" height="10.000000"  />
 <text x="1013" y="2058" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2058" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#201 - 931.36</text>
+<text x="30" y="2058" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#201 - 18.62</text>
 
 <line x1=  "50.000000" y1=  "2050.000000" x2=  "1910.000000" y2=  "2050.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1822,7 +1822,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1030.000000" y="2060.000000" width="500.000000" height="10.000000"  />
 <text x="1033" y="2068" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2068" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#202 - 931.41</text>
+<text x="30" y="2068" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#202 - 18.62</text>
 
 <line x1=  "50.000000" y1=  "2060.000000" x2=  "1910.000000" y2=  "2060.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1831,7 +1831,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1000.000000" y="2070.000000" width="500.000000" height="10.000000"  />
 <text x="1003" y="2078" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2078" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#203 - 931.45</text>
+<text x="30" y="2078" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#203 - 18.62</text>
 
 <line x1=  "50.000000" y1=  "2070.000000" x2=  "1910.000000" y2=  "2070.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1840,7 +1840,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1020.000000" y="2080.000000" width="500.000000" height="10.000000"  />
 <text x="1023" y="2088" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2088" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#204 - 931.51</text>
+<text x="30" y="2088" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#204 - 18.63</text>
 
 <line x1=  "50.000000" y1=  "2080.000000" x2=  "1910.000000" y2=  "2080.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1849,7 +1849,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1050.000000" y="2090.000000" width="500.000000" height="10.000000"  />
 <text x="1053" y="2098" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2098" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#205 - 931.54</text>
+<text x="30" y="2098" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#205 - 18.63</text>
 
 <line x1=  "50.000000" y1=  "2090.000000" x2=  "1910.000000" y2=  "2090.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1858,7 +1858,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1060.000000" y="2100.000000" width="500.000000" height="10.000000"  />
 <text x="1063" y="2108" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2108" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#206 - 932.44</text>
+<text x="30" y="2108" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#206 - 18.64</text>
 
 <line x1=  "50.000000" y1=  "2100.000000" x2=  "1910.000000" y2=  "2100.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1867,7 +1867,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1070.000000" y="2110.000000" width="500.000000" height="10.000000"  />
 <text x="1073" y="2118" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2118" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#207 - 933.44</text>
+<text x="30" y="2118" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#207 - 18.66</text>
 
 <line x1=  "50.000000" y1=  "2110.000000" x2=  "1910.000000" y2=  "2110.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1876,7 +1876,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1080.000000" y="2120.000000" width="500.000000" height="10.000000"  />
 <text x="1083" y="2128" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2128" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#208 - 934.44</text>
+<text x="30" y="2128" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#208 - 18.68</text>
 
 <line x1=  "50.000000" y1=  "2120.000000" x2=  "1910.000000" y2=  "2120.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1885,7 +1885,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1090.000000" y="2130.000000" width="500.000000" height="10.000000"  />
 <text x="1093" y="2138" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2138" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#209 - 935.41</text>
+<text x="30" y="2138" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#209 - 18.70</text>
 
 <line x1=  "50.000000" y1=  "2130.000000" x2=  "1910.000000" y2=  "2130.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1894,7 +1894,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1330.000000" y="2140.000000" width="500.000000" height="10.000000"  />
 <text x="1333" y="2148" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2148" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#210 - 936.18</text>
+<text x="30" y="2148" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#210 - 18.72</text>
 
 <line x1=  "50.000000" y1=  "2140.000000" x2=  "1910.000000" y2=  "2140.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1903,7 +1903,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1100.000000" y="2150.000000" width="500.000000" height="10.000000"  />
 <text x="1103" y="2158" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2158" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#211 - 936.41</text>
+<text x="30" y="2158" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#211 - 18.72</text>
 
 <line x1=  "50.000000" y1=  "2150.000000" x2=  "1910.000000" y2=  "2150.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1912,7 +1912,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1320.000000" y="2160.000000" width="500.000000" height="10.000000"  />
 <text x="1323" y="2168" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2168" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#212 - 936.43</text>
+<text x="30" y="2168" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#212 - 18.72</text>
 
 <line x1=  "50.000000" y1=  "2160.000000" x2=  "1910.000000" y2=  "2160.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1921,7 +1921,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1340.000000" y="2170.000000" width="500.000000" height="10.000000"  />
 <text x="1343" y="2178" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2178" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#213 - 936.49</text>
+<text x="30" y="2178" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#213 - 18.72</text>
 
 <line x1=  "50.000000" y1=  "2170.000000" x2=  "1910.000000" y2=  "2170.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1930,7 +1930,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1310.000000" y="2180.000000" width="500.000000" height="10.000000"  />
 <text x="1313" y="2188" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2188" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#214 - 936.74</text>
+<text x="30" y="2188" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#214 - 18.73</text>
 
 <line x1=  "50.000000" y1=  "2180.000000" x2=  "1910.000000" y2=  "2180.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1939,7 +1939,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1300.000000" y="2190.000000" width="500.000000" height="10.000000"  />
 <text x="1303" y="2198" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2198" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#215 - 937.23</text>
+<text x="30" y="2198" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#215 - 18.74</text>
 
 <line x1=  "50.000000" y1=  "2190.000000" x2=  "1910.000000" y2=  "2190.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1948,7 +1948,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1110.000000" y="2200.000000" width="500.000000" height="10.000000"  />
 <text x="1113" y="2208" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2208" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#216 - 937.57</text>
+<text x="30" y="2208" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#216 - 18.75</text>
 
 <line x1=  "50.000000" y1=  "2200.000000" x2=  "1910.000000" y2=  "2200.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1957,7 +1957,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1350.000000" y="2210.000000" width="500.000000" height="10.000000"  />
 <text x="1353" y="2218" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2218" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#217 - 937.62</text>
+<text x="30" y="2218" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#217 - 18.75</text>
 
 <line x1=  "50.000000" y1=  "2210.000000" x2=  "1910.000000" y2=  "2210.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1966,7 +1966,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1290.000000" y="2220.000000" width="500.000000" height="10.000000"  />
 <text x="1293" y="2228" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2228" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#218 - 937.71</text>
+<text x="30" y="2228" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#218 - 18.75</text>
 
 <line x1=  "50.000000" y1=  "2220.000000" x2=  "1910.000000" y2=  "2220.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1975,7 +1975,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1280.000000" y="2230.000000" width="500.000000" height="10.000000"  />
 <text x="1283" y="2238" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2238" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#219 - 938.26</text>
+<text x="30" y="2238" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#219 - 18.76</text>
 
 <line x1=  "50.000000" y1=  "2230.000000" x2=  "1910.000000" y2=  "2230.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1984,7 +1984,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1120.000000" y="2240.000000" width="500.000000" height="10.000000"  />
 <text x="1123" y="2248" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2248" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#220 - 938.40</text>
+<text x="30" y="2248" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#220 - 18.76</text>
 
 <line x1=  "50.000000" y1=  "2240.000000" x2=  "1910.000000" y2=  "2240.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -1993,7 +1993,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1360.000000" y="2250.000000" width="500.000000" height="10.000000"  />
 <text x="1363" y="2258" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2258" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#221 - 938.86</text>
+<text x="30" y="2258" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#221 - 18.77</text>
 
 <line x1=  "50.000000" y1=  "2250.000000" x2=  "1910.000000" y2=  "2250.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2002,7 +2002,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1130.000000" y="2260.000000" width="500.000000" height="10.000000"  />
 <text x="1133" y="2268" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2268" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#222 - 938.92</text>
+<text x="30" y="2268" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#222 - 18.77</text>
 
 <line x1=  "50.000000" y1=  "2260.000000" x2=  "1910.000000" y2=  "2260.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2011,7 +2011,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1270.000000" y="2270.000000" width="500.000000" height="10.000000"  />
 <text x="1273" y="2278" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2278" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#223 - 939.07</text>
+<text x="30" y="2278" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#223 - 18.78</text>
 
 <line x1=  "50.000000" y1=  "2270.000000" x2=  "1910.000000" y2=  "2270.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2020,7 +2020,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1230.000000" y="2280.000000" width="500.000000" height="10.000000"  />
 <text x="1233" y="2288" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2288" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#224 - 939.07</text>
+<text x="30" y="2288" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#224 - 18.78</text>
 
 <line x1=  "50.000000" y1=  "2280.000000" x2=  "1910.000000" y2=  "2280.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2029,7 +2029,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1250.000000" y="2290.000000" width="500.000000" height="10.000000"  />
 <text x="1253" y="2298" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2298" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#225 - 939.14</text>
+<text x="30" y="2298" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#225 - 18.78</text>
 
 <line x1=  "50.000000" y1=  "2290.000000" x2=  "1910.000000" y2=  "2290.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2038,7 +2038,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1240.000000" y="2300.000000" width="500.000000" height="10.000000"  />
 <text x="1243" y="2308" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2308" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#226 - 939.26</text>
+<text x="30" y="2308" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#226 - 18.78</text>
 
 <line x1=  "50.000000" y1=  "2300.000000" x2=  "1910.000000" y2=  "2300.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2047,7 +2047,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1260.000000" y="2310.000000" width="500.000000" height="10.000000"  />
 <text x="1263" y="2318" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2318" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#227 - 939.26</text>
+<text x="30" y="2318" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#227 - 18.78</text>
 
 <line x1=  "50.000000" y1=  "2310.000000" x2=  "1910.000000" y2=  "2310.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2056,7 +2056,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1370.000000" y="2320.000000" width="500.000000" height="10.000000"  />
 <text x="1373" y="2328" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2328" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#228 - 939.71</text>
+<text x="30" y="2328" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#228 - 18.79</text>
 
 <line x1=  "50.000000" y1=  "2320.000000" x2=  "1910.000000" y2=  "2320.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2065,7 +2065,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1140.000000" y="2330.000000" width="500.000000" height="10.000000"  />
 <text x="1143" y="2338" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2338" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#229 - 939.75</text>
+<text x="30" y="2338" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#229 - 18.79</text>
 
 <line x1=  "50.000000" y1=  "2330.000000" x2=  "1910.000000" y2=  "2330.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2074,7 +2074,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1380.000000" y="2340.000000" width="500.000000" height="10.000000"  />
 <text x="1383" y="2348" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2348" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#230 - 940.28</text>
+<text x="30" y="2348" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#230 - 18.80</text>
 
 <line x1=  "50.000000" y1=  "2340.000000" x2=  "1910.000000" y2=  "2340.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2083,7 +2083,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1220.000000" y="2350.000000" width="500.000000" height="10.000000"  />
 <text x="1223" y="2358" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2358" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#231 - 940.56</text>
+<text x="30" y="2358" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#231 - 18.81</text>
 
 <line x1=  "50.000000" y1=  "2350.000000" x2=  "1910.000000" y2=  "2350.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2092,7 +2092,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1150.000000" y="2360.000000" width="500.000000" height="10.000000"  />
 <text x="1153" y="2368" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2368" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#232 - 940.64</text>
+<text x="30" y="2368" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#232 - 18.81</text>
 
 <line x1=  "50.000000" y1=  "2360.000000" x2=  "1910.000000" y2=  "2360.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2101,7 +2101,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1390.000000" y="2370.000000" width="500.000000" height="10.000000"  />
 <text x="1393" y="2378" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2378" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#233 - 940.81</text>
+<text x="30" y="2378" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#233 - 18.81</text>
 
 <line x1=  "50.000000" y1=  "2370.000000" x2=  "1910.000000" y2=  "2370.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2110,7 +2110,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1160.000000" y="2380.000000" width="500.000000" height="10.000000"  />
 <text x="1163" y="2388" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2388" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#234 - 941.19</text>
+<text x="30" y="2388" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#234 - 18.82</text>
 
 <line x1=  "50.000000" y1=  "2380.000000" x2=  "1910.000000" y2=  "2380.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2119,7 +2119,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1400.000000" y="2390.000000" width="500.000000" height="10.000000"  />
 <text x="1403" y="2398" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2398" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#235 - 941.45</text>
+<text x="30" y="2398" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#235 - 18.82</text>
 
 <line x1=  "50.000000" y1=  "2390.000000" x2=  "1910.000000" y2=  "2390.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2128,7 +2128,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1170.000000" y="2400.000000" width="500.000000" height="10.000000"  />
 <text x="1173" y="2408" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2408" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#236 - 941.52</text>
+<text x="30" y="2408" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#236 - 18.83</text>
 
 <line x1=  "50.000000" y1=  "2400.000000" x2=  "1910.000000" y2=  "2400.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2137,7 +2137,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1190.000000" y="2410.000000" width="500.000000" height="10.000000"  />
 <text x="1193" y="2418" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2418" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#237 - 941.53</text>
+<text x="30" y="2418" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#237 - 18.83</text>
 
 <line x1=  "50.000000" y1=  "2410.000000" x2=  "1910.000000" y2=  "2410.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2146,7 +2146,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1180.000000" y="2420.000000" width="500.000000" height="10.000000"  />
 <text x="1183" y="2428" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2428" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#238 - 941.54</text>
+<text x="30" y="2428" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#238 - 18.83</text>
 
 <line x1=  "50.000000" y1=  "2420.000000" x2=  "1910.000000" y2=  "2420.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2155,7 +2155,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1410.000000" y="2430.000000" width="500.000000" height="10.000000"  />
 <text x="1413" y="2438" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2438" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#239 - 941.85</text>
+<text x="30" y="2438" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#239 - 18.83</text>
 
 <line x1=  "50.000000" y1=  "2430.000000" x2=  "1910.000000" y2=  "2430.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2164,7 +2164,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1200.000000" y="2440.000000" width="500.000000" height="10.000000"  />
 <text x="1203" y="2448" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2448" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#240 - 941.89</text>
+<text x="30" y="2448" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#240 - 18.83</text>
 
 <line x1=  "50.000000" y1=  "2440.000000" x2=  "1910.000000" y2=  "2440.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
@@ -2173,7 +2173,7 @@ height = "2510" width="1990">
 <rect style=" fill:rgb(31,149,116); stroke-width:1.000000; stroke:rgb(0,0,0);stroke-linejoin:bevel" x="1210.000000" y="2450.000000" width="500.000000" height="10.000000"  />
 <text x="1213" y="2458" font-family="Verdana" font-size="6" style = "fill:rgb(255,255,255);">11</text>
 
-<text x="30" y="2458" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#241 - 941.93</text>
+<text x="30" y="2458" font-family="Verdana" font-size="7" style = "fill:rgb(0,0,0);">#241 - 18.83</text>
 
 <line x1=  "50.000000" y1=  "2450.000000" x2=  "1910.000000" y2=  "2450.000000" style=" fill:rgb(255,255,255); stroke-width:0.100000; stroke:rgb(0,0,0);stroke-linejoin:bevel"/>
 
