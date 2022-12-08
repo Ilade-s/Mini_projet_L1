@@ -284,7 +284,7 @@ float cout_moyen(Couts cost, Production prod){
 }
 
 //-------------------------.
-// Rôle : revoie la liste prods ne contenant que les lignes indiquant la production de la region donnée
+// Rôle : revoie la liste prods ne contenant que les lignes indiquant la production de la region donnée.
 // Précondition : les structures sont complètes, region est un numéro de région valide (sinon la liste retournée sera vide)
 liste<Production> filtre_regions(string region, liste<Production> prods){
     liste<Production> prod_filtree;
@@ -363,6 +363,36 @@ liste<Solution> trier_solutions(liste<Solution> l_s){
 }
 
 //-------------------------.
+// Rôle : revoie vrai si l'heure de production donnée respecte les contraintes afin de créer une solution, faux sinon (incrémente la somme des couts).
+// Précondition : les structures sont complètes, index inclus dans [1; taille(l_region)]
+bool est_valide(Production prod, Tache task, Couts cost, float & somme_couts){
+    float cout_moy = cout_moyen(cost, prod); // coût moyen de la production de l'heure
+    somme_couts += cout_moy; // ajout de l'heure de prod au coût total
+    if (!periode_valide(prod.temps, task.debut, task.fin)) { // vérif heure dans la période
+        return false;
+    }
+    if (prod.solde > 0) { // vérif région productrice
+        return false;
+    }
+    if (cout_moy > task.cout) { // vérif cout moyen inférieur à cout max
+        return false;
+    }
+    return true;
+}
+
+//-------------------------.
+// Rôle : crée la structure de donnée Solution et l'ajoute à la fin de la liste l_s.
+// Précondition : les structures sont complètes, index inclus dans [1; taille(l_region) - duree + 1]
+void ajouter_solution(liste<Solution> & l_s, liste<Production> l_region, string region, int index, int duree, float somme_couts){
+    Solution planification;
+    planification.region = region;
+    planification.debut = l_region[index].temps; // première heure de production
+    planification.fin = l_region[index+duree-1].temps; // dernière heure de production
+    planification.cout = somme_couts;
+    inserer(planification, l_s, taille(l_s) + 1);
+}
+
+//-------------------------.
 // Rôle : revoie la liste des planifications possibles de la Tache task, selon les coûts et la liste des productions horiaires.
 // Précondition : les structures sont complètes
 liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prods){
@@ -370,33 +400,17 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
     liste<Solution> solutions;
     int j;
     for (string region: task.regions){ // solutions par régions
-        liste<Production> prods_region = filtre_regions(region, prods);
+        liste<Production> prods_region = filtre_regions(region, prods); // liste des productions de cette region
         for (int i = 1; i <= (int) taille(prods_region) - task.duree; i++) { // parcours index 1ere heure tâche (selon durée)
-            float cout_moy; // coût moyen de la production de l'heure
             float somme_couts = 0; // coût total de la tâche (somme de couts moyen/h)
-            valide = true; // si la solution étudiée est possible ou non
+            valide = true;
             j = 0;
-            while (j < task.duree && valide) { // parcours des indexs des heures de chaque tâche (ou jusqu'à ce que la tâche soit invalide)
-                cout_moy = cout_moyen(cost, prods_region[i+j]);
-                if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // vérif heure dans la période
-                    valide = false;
-                }
-                if (prods_region[i+j].solde > 0) { // vérif région productrice
-                    valide = false;
-                }
-                if (cout_moy > task.cout) { // vérif cout moyen inférieur à cout max
-                    valide = false;
-                }
-                somme_couts += cout_moy;
+            while (j < task.duree && valide) { // parcours des indexs des heures de chaque tâche (ou jusqu'à ce que la solution soit invalide)
+                valide = est_valide(prods_region[i+j], task, cost, somme_couts);
                 j++;
             }
             if (valide) { // ajout éventuel de la solution dans la liste
-                Solution planification;
-                planification.region = region;
-                planification.debut = prods_region[i].temps;
-                planification.fin = prods_region[i+j-1].temps;
-                planification.cout = somme_couts;
-                inserer(planification, solutions, taille(solutions) + 1);
+                ajouter_solution(solutions, prods_region, region, i, task.duree, somme_couts);
             }
         }
     }
