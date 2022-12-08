@@ -124,7 +124,9 @@ bool temps_inferieur(Horodatage temps, Horodatage borne){
             }
             else {
                 if (temps.jour == borne.jour) {
-                    return (temps.heure <= borne.heure);
+                    if (temps.heure <= borne.heure + 1) {
+                        return true;
+                    }
                 }
             }
         }
