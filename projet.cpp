@@ -202,7 +202,7 @@ Couts lire_couts(string filename){
 }
 
 //-------------------------.
-// Rôle : enregistre la liste l_res des structures de données Solution à l'emplacement <filename>
+// Rôle : enregistre la liste l_res des structures de données Solution à l'emplacement <filename>.
 // Précondition : filename est un emplacement de fichier valide
 void exporter_resultats(string filename, liste<Solution> l_res){
     fstream flux;
@@ -229,8 +229,8 @@ void exporter_resultats(string filename, liste<Solution> l_res){
 }
 
 //-------------------------.
-// Rôle : revoie vrai si temps est situé avant ou au même moment que borne, faux sinon
-// Précondition : filename est un emplacement de fichier valide
+// Rôle : revoie vrai si temps est situé avant ou au même moment que borne, faux sinon.
+// Précondition : les structures sont complètes
 bool temps_inferieur(Horodatage temps, Horodatage borne){
     if (temps.mois < borne.mois) {
         return true;
@@ -252,6 +252,9 @@ bool temps_inferieur(Horodatage temps, Horodatage borne){
     return false;
 }
 
+//-------------------------.
+// Rôle : revoie vrai si temps est situé entre min et max (inclus).
+// Précondition : les structures sont complètes
 bool periode_valide(Horodatage temps, Horodatage min, Horodatage max){
     if (temps_inferieur(min, temps)) {
         if (temps_inferieur(temps, max)) {
@@ -261,6 +264,9 @@ bool periode_valide(Horodatage temps, Horodatage min, Horodatage max){
     return false;
 }
 
+//-------------------------.
+// Rôle : revoie le cout moyen de la production de cette heure (moyenne pondérée des coûts par la production).
+// Précondition : les structures sont complètes
 float cout_moyen(Couts cost, Production prod){
     float cout_fois_prod = prod.thermique * cost.thermique + 
         prod.nucleaire * cost.nucleaire + 
@@ -274,6 +280,9 @@ float cout_moyen(Couts cost, Production prod){
     return cout_fois_prod / somme_prods;
 }
 
+//-------------------------.
+// Rôle : revoie la liste prods ne contenant que les lignes indiquant la production de la region donnée
+// Précondition : les structures sont complètes, region est un numéro de région valide (sinon la liste retournée sera vide)
 liste<Production> filtre_regions(string region, liste<Production> prods){
     liste<Production> prod_filtree;
     for (Production prod : prods) {
@@ -285,26 +294,91 @@ liste<Production> filtre_regions(string region, liste<Production> prods){
     return prod_filtree;
 };
 
+//-------------------------.
+// Rôle : sépare l_f en deux listes l1 et l2 de même taille à l'unité près (récursif).
+// Précondition : les structures de la liste l_s sont bien formées et l1 et l2 sont vides
+void separation_l_s(liste<Solution> l_s, liste<Solution> & l1, liste<Solution> & l2){
+    if (taille(l_s) > 0) {
+        if (taille(l1) < taille(l2)) {
+            inserer(tete(l_s), l1, taille(l1) + 1);
+        }
+        else {
+            inserer(tete(l_s), l2, taille(l2) + 1);
+        }
+        separation_l_s(reste(l_s), l1, l2);
+    }
+}
+
+//-------------------------.
+// Rôle : revoie vrai si l2 est vide ou que la 1er elt de l1 est inférieur au 1er elt de l2, faux sinon.
+// Précondition : les structures des listes sont bien formées
+bool tete_inferieure(liste<Solution> l1, liste<Solution> l2){
+    if (taille(l1) == 0) {
+        return false;
+    }
+    if (taille(l2) == 0) {
+        return true;
+    }
+    if (l1[1].cout < l2[1].cout) {
+        return true;
+    }
+    return false;
+}
+
+//-------------------------.
+// Rôle : fusionne les deux listes triées dans l'ordre croissant l1 et l2 dans l_f (récursif).
+// Précondition : les structures des listes sont bien formées et l_f est vide
+void fusion_liste_triees(liste<Solution> l1, liste<Solution> l2, liste<Solution> & l_f){
+    if (tete_inferieure(l1, l2)) {
+        inserer(tete(l1), l_f, taille(l_f) + 1);
+        fusion_liste_triees(reste(l1), l2, l_f);
+    }
+    if (tete_inferieure(l2, l1)) {
+        inserer(tete(l2), l_f, taille(l_f) + 1);
+        fusion_liste_triees(l1, reste(l2), l_f);
+    }
+}
+
+//-------------------------.
+// Rôle : revoie la liste l_s triée en ordre croissant du coût des solutions (récursif : tri fusion).
+// Précondition : les structures de la liste sont bien formées
+liste<Solution> trier_solutions(liste<Solution> l_s){
+    if (taille(l_s) <= 1) {
+        return l_s;
+    }
+
+    liste<Solution> l1, l2, l_triee;
+
+    separation_l_s(l_s, l1, l2);
+
+    l1 = trier_solutions(l1);
+    l2 = trier_solutions(l2);
+
+    fusion_liste_triees(l1, l2, l_triee);
+    return l_triee;
+    
+}
+
 liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prods){
     bool valide;
     liste<Solution> solutions;
     int j;
-    for (string region: task.regions){
+    for (string region: task.regions){ // solutions par régions
         liste<Production> prods_region = filtre_regions(region, prods);
-        for (int i = 1; i <= (int) taille(prods_region) - (task.duree - 1); i++) {
-            float cout_moy;
-            float somme_couts = 0;
-            valide = true;
+        for (int i = 1; i <= (int) taille(prods_region) - (task.duree - 1); i++) { // parcours index 1ere heure tâche (selon durée)
+            float cout_moy; // coût moyen de la production de l'heure
+            float somme_couts = 0; // coût total de la tâche (somme de couts moyen/h)
+            valide = true; // si la solution étudiée est possible ou non
             j = 0;
-            while (j < task.duree - 1 && valide) {
+            while (j < task.duree - 1 && valide) { // parcours des indexs des heures de chaque tâche (ou jusqu'à ce que la tâche soit invalide)
                 cout_moy = cout_moyen(cost, prods_region[i+j]);
-                if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // heure dans la période
+                if (!periode_valide(prods_region[i+j].temps, task.debut, task.fin)) { // vérif heure dans la période
                     valide = false;
                 }
-                if (prods_region[i+j].solde > 0) { // région productrice
+                if (prods_region[i+j].solde > 0) { // vérif région productrice
                     valide = false;
                 }
-                if (cout_moy > task.cout) { // cout moyen inférieur à cout max
+                if (cout_moy > task.cout) { // vérif cout moyen inférieur à cout max
                     valide = false;
                 }
                 somme_couts += cout_moy;
@@ -321,7 +395,7 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
         }
     }
     
-    return solutions;
+    return trier_solutions(solutions);
 }
 
 int main(){
@@ -330,7 +404,7 @@ int main(){
     Couts cost = lire_couts("couts.txt");
     afficher_couts(cost);
     liste<Production> prods = lire_donnees("energieFrance2021.txt", -1);
-    afficher_donnees(prods);
+    //afficher_donnees(prods);
     liste<Solution> resultats = trouver_solutions(task, cost, prods);
     exporter_resultats(task.sortie, resultats);
     return 0;
