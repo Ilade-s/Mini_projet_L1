@@ -390,7 +390,7 @@ liste<Solution> trouver_solutions(Tache task, Couts cost, liste<Production> prod
                 somme_couts += cout_moy;
                 j++;
             }
-            if (valide) {
+            if (valide) { // ajout éventuel de la solution dans la liste
                 Solution planification;
                 planification.region = region;
                 planification.debut = prods_region[i].temps;
