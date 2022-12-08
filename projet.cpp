@@ -111,10 +111,53 @@ void afficher_donnees(liste<Production> l_prod){
 }
 
 //-------------------------.
+// Rôle : revoie vrai si temps est situé avant ou au même moment que borne, faux sinon.
+// Précondition : les structures sont complètes
+bool temps_inferieur(Horodatage temps, Horodatage borne){
+    if (temps.mois < borne.mois) {
+        return true;
+    }
+    else {
+        if (temps.mois == borne.mois) {
+            if (temps.jour < borne.jour) {
+                return true;
+            }
+            else {
+                if (temps.jour == borne.jour) {
+                    if (temps.heure == borne.heure) {
+                        cout << "temps == borne : ";
+                        afficher_horodatage(temps);
+                        cout << endl;
+                        return true;
+                    }
+                    if (temps.heure < borne.heure) {
+                        return true;
+                    }
+                }
+            }
+        }
+    }
+    return false;
+}
+
+//-------------------------.
+// Rôle : revoie vrai si temps est situé entre min et max (inclus).
+// Précondition : les structures sont complètes
+bool periode_valide(Horodatage temps, Horodatage min, Horodatage max){
+    if (temps_inferieur(min, temps)) {
+        if (temps_inferieur(temps, max)) {
+            return true;
+        }
+    }
+    return false;
+}
+
+//-------------------------.
 // Rôle : retourne le résultat de la lecture de la liste des structures de données Productions suivant le format du fichier d'exemple energieFrance 2021.txt.
+//        (lit seulement la période indiquée dans la Tache)
 // Précondition : filename est un emplacement de fichier valide.
 // Info limit : mettre limit à -1 pour lire jusqu'au bout
-liste<Production> lire_donnees(string filename, int limit){
+liste<Production> lire_donnees(string filename, int limit, Tache task){
     Production prod;
     liste<Production> prods;
     fstream flux;
@@ -134,7 +177,9 @@ liste<Production> lire_donnees(string filename, int limit){
             flux >> prod.hydro;
             flux >> prod.bio;
             flux >> prod.solde;
-            inserer(prod, prods, taille(prods) + 1);
+            if (periode_valide(prod.temps, task.debut, task.fin)) {
+                inserer(prod, prods, taille(prods) + 1);
+            }    
             i++;
         }
     }
@@ -142,7 +187,6 @@ liste<Production> lire_donnees(string filename, int limit){
     {
         cout << "Erreur : impossible d’ouvrir "  << filename << endl;
     }
-
     return prods;
 }
 
@@ -229,42 +273,6 @@ void exporter_resultats(string filename, liste<Solution> l_res){
     {
         cout << "Erreur : impossible d’enregistrer resultats a l'emplacement "  << filename << endl;
     }
-}
-
-//-------------------------.
-// Rôle : revoie vrai si temps est situé avant ou au même moment que borne, faux sinon.
-// Précondition : les structures sont complètes
-bool temps_inferieur(Horodatage temps, Horodatage borne){
-    if (temps.mois < borne.mois) {
-        return true;
-    }
-    else {
-        if (temps.mois == borne.mois) {
-            if (temps.jour < borne.jour) {
-                return true;
-            }
-            else {
-                if (temps.jour == borne.jour) {
-                    if (temps.heure <= borne.heure) {
-                        return true;
-                    }
-                }
-            }
-        }
-    }
-    return false;
-}
-
-//-------------------------.
-// Rôle : revoie vrai si temps est situé entre min et max (inclus).
-// Précondition : les structures sont complètes
-bool periode_valide(Horodatage temps, Horodatage min, Horodatage max){
-    if (temps_inferieur(min, temps)) {
-        if (temps_inferieur(temps, max)) {
-            return true;
-        }
-    }
-    return false;
 }
 
 //-------------------------.
@@ -368,9 +376,6 @@ liste<Solution> trier_solutions(liste<Solution> l_s){
 bool est_valide(Production prod, Tache task, Couts cost, float & somme_couts){
     float cout_moy = cout_moyen(cost, prod); // coût moyen de la production de l'heure
     somme_couts += cout_moy; // ajout de l'heure de prod au coût total
-    if (!periode_valide(prod.temps, task.debut, task.fin)) { // vérif heure dans la période
-        return false;
-    }
     if (prod.solde > 0) { // vérif région productrice
         return false;
     }
@@ -423,7 +428,7 @@ int main(){
     afficher_tache(task);
     Couts cost = lire_couts("couts.txt");
     afficher_couts(cost);
-    liste<Production> prods = lire_donnees("energieFrance2021.txt", -1);
+    liste<Production> prods = lire_donnees("energieFrance2021.txt", -1, task);
     //afficher_donnees(prods);
     liste<Solution> resultats = trouver_solutions(task, cost, prods);
     exporter_resultats(task.sortie, resultats);
