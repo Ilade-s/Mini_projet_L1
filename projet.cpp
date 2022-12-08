@@ -89,7 +89,7 @@ void afficher_couts(Couts c_ener){
 }
 
 //-------------------------.
-// Rôle : affichage de la structure de donnée Horodatage (sur une ligne, sans passage de ligne).
+// Rôle : affichage de la structure de donnée Production (sur une ligne, sans passage de ligne).
 // Précondition : prod avec attributs complétés
 void afficher_production(Production prod){
     cout << prod.region << " ";
@@ -124,15 +124,7 @@ bool temps_inferieur(Horodatage temps, Horodatage borne){
             }
             else {
                 if (temps.jour == borne.jour) {
-                    if (temps.heure == borne.heure) {
-                        cout << "temps == borne : ";
-                        afficher_horodatage(temps);
-                        cout << endl;
-                        return true;
-                    }
-                    if (temps.heure < borne.heure) {
-                        return true;
-                    }
+                    return (temps.heure <= borne.heure);
                 }
             }
         }
@@ -141,7 +133,7 @@ bool temps_inferieur(Horodatage temps, Horodatage borne){
 }
 
 //-------------------------.
-// Rôle : revoie vrai si temps est situé entre min et max (inclus).
+// Rôle : revoie vrai si temps est situé entre min et max (inclus) : min <= temps <= max.
 // Précondition : les structures sont complètes
 bool periode_valide(Horodatage temps, Horodatage min, Horodatage max){
     if (temps_inferieur(min, temps)) {
@@ -179,7 +171,7 @@ liste<Production> lire_donnees(string filename, int limit, Tache task){
             flux >> prod.solde;
             if (periode_valide(prod.temps, task.debut, task.fin)) {
                 inserer(prod, prods, taille(prods) + 1);
-            }    
+            }  
             i++;
         }
     }
