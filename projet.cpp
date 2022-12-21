@@ -4,6 +4,9 @@ MERLET Raphaël, Bilal RAHALI
 
 Permet la planification d'une tâche décrite dans un fichier, avec un fichier de coûts et de productions fournis
 Les solutions trouvées sont enregistrées dans un fichier de sortie (au nom indiqué dans le fichier de tâche)
+
+Lien github : https://github.com/Ilade-s/Mini_projet_L1 
+    (branche master par défaut, contient aussi la branche test_lecture_rapide)
 */
 
 #include <iostream>
@@ -47,7 +50,7 @@ struct Production
     int thermique, nucleaire, eolien, solaire, hydro, bio, solde;
 };
 
-// couts en kgCO2/KWh de chaque type de production d'énergie
+// couts en g eqCO2/KWh de chaque type de production d'énergie
 struct Couts
 {
     float thermique, nucleaire, eolien, solaire, hydro, bio;
@@ -89,7 +92,7 @@ void afficher_couts(Couts c_ener){
 }
 
 //-------------------------.
-// Rôle : affichage de la structure de donnée Horodatage (sur une ligne, sans passage de ligne).
+// Rôle : affichage de la structure de donnée Production (sur une ligne, sans passage de ligne).
 // Précondition : prod avec attributs complétés
 void afficher_production(Production prod){
     cout << prod.region << " ";
